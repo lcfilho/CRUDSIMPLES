@@ -1,0 +1,3619 @@
+ +--<semantix>
+       |
+       +--<certificado_aws>
+       |     |
+       |     +--test_dicas.txt
+       |
+       +--<exer2>
+       |     |
+       |     +--exer2_path
+       |
+       +--<exer_pre>
+       |     |
+       |     +--matriz_python_2.docx
+       |     |
+       |     +--luis_2.pdf
+       |     |
+       |     +--matriz_python.docx
+       |     |
+       |     +--5.docx
+       |     |
+       |     +--fibo java.docx
+       |     |
+       |     +--DESAFIO - Estágio_1.pdf
+       |     |
+       |     +--sql.docx
+       |     |
+       |     +--def_matriz.docx
+       |     |
+       |     +--lista.docx
+       |     |
+       |     +--2019.pdf
+       |     |
+       |     +--7.docx
+       |     |
+       |     +--Programa Estagio 2019.pdf
+       |     |
+       |     +--matriz.docx
+       |     |
+       |     +--8.docx
+       |     |
+       |     +--4.docx
+       |     |
+       |     +--6.docx
+       |     |
+       |     +--DESAFIO - Estágio.pdf
+       |
+       +--resposta.txt
+       |
+       +--<modelos_python>
+       |     |
+       |     +--decoradores_assinatura.py
+       |     |
+       |     +--tipo_float.py
+       |     |
+       |     +--polimorfismo.py
+       |     |
+       |     +--abstracao_encapsulamento.py
+       |     |
+       |     +--leitura_de_arquivos.py
+       |     |
+       |     +--pacotes.py
+       |     |
+       |     +--try_except_else_finally.py
+       |     |
+       |     +--felix.json
+       |     |
+       |     +--tipo_booleano.py
+       |     |
+       |     +--filmes2.csv
+       |     |
+       |     +--entendendo_iterators_iterables.py
+       |     |
+       |     +--lambdas.py
+       |     |
+       |     +--modulo_random.py
+       |     |
+       |     +--dunder.py
+       |     |
+       |     +--docstrings.py
+       |     |
+       |     +--teste_memoria.py
+       |     |
+       |     +--manipulando_data_hora.py
+       |     |
+       |     +--lutadores.csv
+       |     |
+       |     +--metodos_data_hora.py
+       |     |
+       |     +--forcando_tipos.py
+       |     |
+       |     +--conjuntos.py
+       |     |
+       |     +--novo.txt
+       |     |
+       |     +--list_comprehension_p2.py
+       |     |
+       |     +--antes_apos_hooks.py
+       |     |
+       |     +--funcoes_maior_grandeza.py
+       |     |
+       |     +--outros_tipos_assertions.py
+       |     |
+       |     +--reversed.py
+       |     |
+       |     +--testes.py
+       |     |
+       |     +--super.py
+       |     |
+       |     +--primeiro.py
+       |     |
+       |     +--funcoes_com_retorno.py
+       |     |
+       |     +--named_tuple.py
+       |     |
+       |     +--dir_e_help.py
+       |     |
+       |     +--segundo.py
+       |     |
+       |     +--escrevendo_csv.py
+       |     |
+       |     +--propriedades.py
+       |     |
+       |     +--conhecendo_pickle.py
+       |     |
+       |     +--generators.py
+       |     |
+       |     +--modos_abertura_arquivo.py
+       |     |
+       |     +--pep8.py
+       |     |
+       |     +--metodos.py
+       |     |
+       |     +--erros_mais_comuns.py
+       |     |
+       |     +--raise.py
+       |     |
+       |     +--default_dict.py
+       |     |
+       |     +--json_pickle.py
+       |     |
+       |     +--metodos_magicos.py
+       |     |
+       |     +--counter.py
+       |     |
+       |     +--deltas.py
+       |     |
+       |     +--por_que_testar_codigo.py
+       |     |
+       |     +--condicionais_if_else_elif.py
+       |     |
+       |     +--debuggando_com_pdb.py
+       |     |
+       |     +--loop_for.py
+       |     |
+       |     +--recebendo_dados_usuario.py
+       |     |
+       |     +--arquivo-teste4.txt
+       |     |
+       |     +--iterador_customizado.py
+       |     |
+       |     +--teste_velocidade.py
+       |     |
+       |     +--mapas.py
+       |     |
+       |     +--mro.py
+       |     |
+       |     +--university.txt
+       |     |
+       |     +--teste.py
+       |     |
+       |     +--arquivo-teste.txt
+       |     |
+       |     +--args.py
+       |     |
+       |     +--heranca.py
+       |     |
+       |     +--poo.py
+       |     |
+       |     +--criando_loops.py
+       |     |
+       |     +--tipo_string.py
+       |     |
+       |     +--list_comprehension_p1.py
+       |     |
+       |     +--<.idea>
+       |     |     |
+       |     |     +--guppe.iml
+       |     |     |
+       |     |     +--misc.xml
+       |     |     |
+       |     |     +--<inspectionProfiles>
+       |     |     |     |
+       |     |     |     +--Project_Default.xml
+       |     |     |
+       |     |     +--modules.xml
+       |     |     |
+       |     |     +--workspace.xml
+       |     |     |
+       |     |     +--<dictionaries>
+       |     |           |
+       |     |           +--geek.xml
+       |     |
+       |     +--kwargs.py
+       |     |
+       |     +--modulos_externos.py
+       |     |
+       |     +--ordered_dict.py
+       |     |
+       |     +--robo.py
+       |     |
+       |     +--modulos_customizados.py
+       |     |
+       |     +--arquivo-teste2.txt
+       |     |
+       |     +--dicionarios.py
+       |     |
+       |     +--listas.py
+       |     |
+       |     +--dictionary_comprehension.py
+       |     |
+       |     +--doctests.py
+       |     |
+       |     +--loop_while.py
+       |     |
+       |     +--filter.py
+       |     |
+       |     +--intro_unittest.py
+       |     |
+       |     +--estruturas_logicas_and_or_not_is.py
+       |     |
+       |     +--set_comprehension.py
+       |     |
+       |     +--map.py
+       |     |
+       |     +--atributos.py
+       |     |
+       |     +--tipo_numerico.py
+       |     |
+       |     +--listas_aninhadas.py
+       |     |
+       |     +--sorted.py
+       |     |
+       |     +--reduce.py
+       |     |
+       |     +--breaks.py
+       |     |
+       |     +--paython.tar
+       |     |
+       |     +--seek_e_cursors.py
+       |     |
+       |     +--mais.txt
+       |     |
+       |     +--funcoes_com_parametro.py
+       |     |
+       |     +--stringio.py
+       |     |
+       |     +--definindo_funcoes.py
+       |     |
+       |     +--test_doc.pdf
+       |     |
+       |     +--decoradores.py
+       |     |
+       |     +--funcoes_com_parametro_padrao.py
+       |     |
+       |     +--modulos_builtin.py
+       |     |
+       |     +--tuplas.py
+       |     |
+       |     +--outro.txt
+       |     |
+       |     +--zip.py
+       |     |
+       |     +--escopo_de_variaveis.py
+       |     |
+       |     +--lendo_csv.py
+       |     |
+       |     +--objetos.py
+       |     |
+       |     +--preservando_metadata.py
+       |     |
+       |     +--any_all.py
+       |     |
+       |     +--assertions.py
+       |     |
+       |     +--animais.pickle
+       |     |
+       |     +--escrever_em_arquivos.py
+       |     |
+       |     +--heranca_multipla.py
+       |     |
+       |     +--try_except.py
+       |     |
+       |     +--min-e-max.py
+       |     |
+       |     +--tipo_none.py
+       |     |
+       |     +--filmes3.csv
+       |     |
+       |     +--bloco_with.py
+       |     |
+       |     +--geradores.py
+       |     |
+       |     +--filmes.csv
+       |     |
+       |     +--robo_testes.py
+       |     |
+       |     +--len-abs-sum-round.py
+       |     |
+       |     +--<geek>
+       |     |     |
+       |     |     +--geek1.py
+       |     |     |
+       |     |     +--__init__.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |     |     |
+       |     |     |     +--__init__.cpython-37.pyc
+       |     |     |     |
+       |     |     |     +--geek1.cpython-37.pyc
+       |     |     |     |
+       |     |     |     +--geek2.cpython-37.pyc
+       |     |     |
+       |     |     +--geek2.py
+       |     |     |
+       |     |     +--classes.py
+       |     |     |
+       |     |     +--<university>
+       |     |           |
+       |     |           +--geek4.py
+       |     |           |
+       |     |           +--__init__.py
+       |     |           |
+       |     |           +--<__pycache__>
+       |     |           |     |
+       |     |           |     +--__init__.cpython-37.pyc
+       |     |           |     |
+       |     |           |     +--geek3.cpython-37.pyc
+       |     |           |     |
+       |     |           |     +--geek4.cpython-37.pyc
+       |     |           |
+       |     |           +--geek3.py
+       |     |
+       |     +--texto.txt
+       |     |
+       |     +--entendendo_ranges.py
+       |     |
+       |     +--sistema_de_arquivos_navegacao.py
+       |     |
+       |     +--atividades.py
+       |     |
+       |     +--deque.py
+       |     |
+       |     +--arquivo-teste3.txt
+       |     |
+       |     +--sistema_de_arquivos_manipulacao.py
+       |
+       +--bitnami-wordpress-5.2.2-0-module-linux-x64-installer.run
+       |
+       +--<teste_takeshi>
+       |     |
+       |     +--roman_to_number.py
+       |     |
+       |     +--tttt.py
+       |     |
+       |     +--<TESTE_QUALIFICADOR_SENHA>
+       |     |     |
+       |     |     +--classifica_senha.py
+       |     |     |
+       |     |     +--test_classifica_senha.py
+       |     |     |
+       |     |     +--<qualifica_senha_Luis>
+       |     |     |     |
+       |     |     |     +--classifica_senha.py
+       |     |     |     |
+       |     |     |     +--test_classifica_senha.py
+       |     |     |
+       |     |     +--teste_senha.py
+       |     |     |
+       |     |     +--teste_senha
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |           |
+       |     |           +--classifica_senha.cpython-36.pyc
+       |     |
+       |     +--<TESTE_SENHA>
+       |     |     |
+       |     |     +--test_gera_senha_Luis.py
+       |     |     |
+       |     |     +--pass2.py
+       |     |     |
+       |     |     +--gera_senha_Luis.py
+       |     |     |
+       |     |     +--<gerador_senha_Luis>
+       |     |     |     |
+       |     |     |     +--test_gera_senha_Luis.py
+       |     |     |     |
+       |     |     |     +--gera_senha_Luis.py
+       |     |     |
+       |     |     +--gerador_senha_Luis.py
+       |     |     |
+       |     |     +--passwd.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |           |
+       |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |
+       |     +--<TESTE_ROMANOS>
+       |     |     |
+       |     |     +--roman_numerals.py
+       |     |     |
+       |     |     +--<converte_romanos_Luis>
+       |     |     |     |
+       |     |     |     +--test_converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |
+       |     |     +--<converte_romano_Luis_2>
+       |     |     |     |
+       |     |     |     +--test_converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--ifcomraomanos.py
+       |     |     |
+       |     |     +--test_converte_romano_Luis.py
+       |     |     |
+       |     |     +--romanos1111.py
+       |     |     |
+       |     |     +--converte_romano_Luis.py
+       |     |     |
+       |     |     +--romanos.py
+       |     |     |
+       |     |     +--romanos_if.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--romanos_passos.txt
+       |     |     |
+       |     |     +--ifromanos.py
+       |     |     |
+       |     |     +--teste_romanos.py
+       |     |
+       |     +--<TESTE_WEBSERVER>
+       |     |     |
+       |     |     +--<WEBSERVER_LUIS>
+       |     |           |
+       |     |           +--WebServer_Luis.py
+       |     |           |
+       |     |           +--<source>
+       |     |           |     |
+       |     |           |     +--classifica_senha.py
+       |     |           |     |
+       |     |           |     +--gera_senha_Luis.py
+       |     |           |     |
+       |     |           |     +--criptografia_senhas.py
+       |     |           |     |
+       |     |           |     +--conta_zeros_Luis.py
+       |     |           |     |
+       |     |           |     +--validacpf_luis.py
+       |     |           |     |
+       |     |           |     +--converte_romano_Luis.py
+       |     |           |
+       |     |           +--<templates>
+       |     |                 |
+       |     |                 +--cpf.jinja2
+       |     |                 |
+       |     |                 +--romanos.jinja2
+       |     |                 |
+       |     |                 +--indexx.html
+       |     |                 |
+       |     |                 +--index2.html
+       |     |                 |
+       |     |                 +--zeros.jinja2
+       |     |                 |
+       |     |                 +--senha.jinja2
+       |     |
+       |     +--<TESTE_MOEDAS>
+       |     |     |
+       |     |     +--mmmm2313.py
+       |     |     |
+       |     |     +--test_MOEDAS.py
+       |     |     |
+       |     |     +--ultimo.py
+       |     |     |
+       |     |     +--MOEDAS_LUIS.py
+       |     |     |
+       |     |     +--test_Moedas.py
+       |     |     |
+       |     |     +--mmmm.py
+       |     |     |
+       |     |     +--Moedas.py
+       |     |     |
+       |     |     +--MMOEDAS.py
+       |     |     |
+       |     |     +--MOEDAS.py
+       |     |     |
+       |     |     +--mmmm2.py
+       |     |     |
+       |     |     +--123.py
+       |     |     |
+       |     |     +--<Moedas_Luis>
+       |     |     |     |
+       |     |     |     +--MOEDAS_LUIS.py
+       |     |     |     |
+       |     |     |     +--test_MOEDAS_LUIS.py
+       |     |     |
+       |     |     +--test_MOEDAS_LUIS.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |     |     |
+       |     |     |     +--MOEDAS_LUIS.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--Moedas.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--MOEDAS.cpython-36.pyc
+       |     |     |
+       |     |     +--MOEDAS3.py
+       |     |     |
+       |     |     +--1111.py
+       |     |     |
+       |     |     +--MOEDAS2.py
+       |     |
+       |     +--<TESTE_ZEROS>
+       |     |     |
+       |     |     +--<conta_zeros_Luis>
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |
+       |     |     |     +--test_conta_zeros_Luis.py
+       |     |     |
+       |     |     +--bcp_conta_zeros.py
+       |     |     |
+       |     |     +--conta_zeros_Luis.py
+       |     |     |
+       |     |     +--test_conta_zeros_luis.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--test_conta_zeros_Luis.py
+       |     |     |
+       |     |     +--teste_zeros.txt
+       |     |
+       |     +--<TESTE_PASTA>
+       |     |     |
+       |     |     +--resposta.txt
+       |     |     |
+       |     |     +--programa.py
+       |     |
+       |     +--<webservice>
+       |     |     |
+       |     |     +--roman_to_number.py
+       |     |     |
+       |     |     +--local.py
+       |     |     |
+       |     |     +--app.py
+       |     |
+       |     +--<TESTE_CPF>
+       |           |
+       |           +--val_cpf.py
+       |           |
+       |           +--valida_cpf.py
+       |           |
+       |           +--valida.py
+       |           |
+       |           +--CPF_TEST.py
+       |           |
+       |           +--cppppp.py
+       |           |
+       |           +--cpf_val.py
+       |           |
+       |           +--testecpf.py
+       |           |
+       |           +--validacpf_base.py
+       |           |
+       |           +--bcp_valida_cpf.py
+       |           |
+       |           +--test_cpf.py
+       |           |
+       |           +--validacpf_luis.py
+       |           |
+       |           +--<__pycache__>
+       |           |     |
+       |           |     +--validacpf_luis.cpython-36.pyc
+       |           |
+       |           +--<validacpf_Luis>
+       |           |     |
+       |           |     +--validacpf_luis.py
+       |           |     |
+       |           |     +--test_validacpf_luis.py
+       |           |
+       |           +--cpf_python.py
+       |           |
+       |           +--cpf_passos.txt
+       |           |
+       |           +--test_validacpf_luis.py
+       |           |
+       |           +--cpf_2.py
+       |
+       +--xampp-linux-x64-7.3.7-0-installer.run
+       |
+       +--virtualbox-6.0_6.0.10-132072_Ubuntu_bionic_amd64.deb
+       |
+       +--<GITS>
+       |     |
+       |     +--<webserver>
+       |     |     |
+       |     |     +--<webserver>
+       |     |     |     |
+       |     |     |     +--<.git>
+       |     |     |     |     |
+       |     |     |     |     +--HEAD
+       |     |     |     |     |
+       |     |     |     |     +--config
+       |     |     |     |     |
+       |     |     |     |     +--description
+       |     |     |     |     |
+       |     |     |     |     +--<refs>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<tags>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<remotes>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--<origin>
+       |     |     |     |     |     |           |
+       |     |     |     |     |     |           +--master
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<heads>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--master
+       |     |     |     |     |
+       |     |     |     |     +--<info>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--exclude
+       |     |     |     |     |
+       |     |     |     |     +--COMMIT_EDITMSG
+       |     |     |     |     |
+       |     |     |     |     +--<branches>
+       |     |     |     |     |
+       |     |     |     |     +--index
+       |     |     |     |     |
+       |     |     |     |     +--<logs>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--HEAD
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<refs>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<remotes>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--<origin>
+       |     |     |     |     |           |           |
+       |     |     |     |     |           |           +--master
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<heads>
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--master
+       |     |     |     |     |
+       |     |     |     |     +--<objects>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<c5>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--9e4a16175de71707846be84838eb2e42ccaa95
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<b7>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--e8747283e015318fe254850982ef7a15fb2ee4
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<pack>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<ca>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--806d284b4d29a4e002d3e0eeda65c2ec55708d
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<4d>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--6da43636a30315d44813effe5f1c1f9599de0f
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<9c>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--c7e6d0374aabd1ffe7f1fd8e4ed9f015791f1d
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<b0>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--fc2f976e13c60cd5f8ed92e5c8922bb8341d64
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<info>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<bd>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--d0c4618becedf85f85f50b8ae7d38dbc848b34
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<44>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--6aca16353f94ded4c5341ffff8a513f64df4b5
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<f4>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--ab0d8dd5685c9c9675085e8488af50180b54a0
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<58>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--bfd175365cfff8cec46f3e17752aecdf06e3f4
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<ad>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--485e60db9bd7c0150b28e92649aceaffbb522c
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<4b>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--1596d0658435e98754dc85e9c561b635b2c6f9
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<73>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--62c98a4a961231c66718121319a0bfbe1472dd
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<5b>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--4513ea4c0a9a660b8469a6c411d0b6219c82f0
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<e4>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--cf97975dcc72a0b0cde76779f345793f6f621f
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<ac>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--2b20b044a45f6b3c4ba551f501e67e5158fc63
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<20>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--37953d28d552c57e8ebf96a9a0f8f3389b40b3
+       |     |     |     |     |           |
+       |     |     |     |     |           +--1920c04f4f3548926f1d7b1c1402cce8257a47
+       |     |     |     |     |
+       |     |     |     |     +--<hooks>
+       |     |     |     |           |
+       |     |     |     |           +--update.sample
+       |     |     |     |           |
+       |     |     |     |           +--prepare-commit-msg.sample
+       |     |     |     |           |
+       |     |     |     |           +--pre-push.sample
+       |     |     |     |           |
+       |     |     |     |           +--pre-commit.sample
+       |     |     |     |           |
+       |     |     |     |           +--commit-msg.sample
+       |     |     |     |           |
+       |     |     |     |           +--fsmonitor-watchman.sample
+       |     |     |     |           |
+       |     |     |     |           +--pre-rebase.sample
+       |     |     |     |           |
+       |     |     |     |           +--applypatch-msg.sample
+       |     |     |     |           |
+       |     |     |     |           +--post-update.sample
+       |     |     |     |           |
+       |     |     |     |           +--pre-receive.sample
+       |     |     |     |           |
+       |     |     |     |           +--pre-applypatch.sample
+       |     |     |     |
+       |     |     |     +--<webserver_LUIS>
+       |     |     |           |
+       |     |     |           +--WebServer_Luis.py
+       |     |     |           |
+       |     |     |           +--<source>
+       |     |     |           |     |
+       |     |     |           |     +--classifica_senha.py
+       |     |     |           |     |
+       |     |     |           |     +--gera_senha_Luis.py
+       |     |     |           |     |
+       |     |     |           |     +--criptografia_senhas.py
+       |     |     |           |     |
+       |     |     |           |     +--conta_zeros_Luis.py
+       |     |     |           |     |
+       |     |     |           |     +--validacpf_luis.py
+       |     |     |           |     |
+       |     |     |           |     +--converte_romano_Luis.py
+       |     |     |           |
+       |     |     |           +--<templates>
+       |     |     |                 |
+       |     |     |                 +--cpf.jinja2
+       |     |     |                 |
+       |     |     |                 +--romanos.jinja2
+       |     |     |                 |
+       |     |     |                 +--indexx.html
+       |     |     |                 |
+       |     |     |                 +--index2.html
+       |     |     |                 |
+       |     |     |                 +--zeros.jinja2
+       |     |     |                 |
+       |     |     |                 +--senha.jinja2
+       |     |     |
+       |     |     +--<webserver_LUIS>
+       |     |           |
+       |     |           +--WebServer_Luis.py
+       |     |           |
+       |     |           +--<source>
+       |     |           |     |
+       |     |           |     +--classifica_senha.py
+       |     |           |     |
+       |     |           |     +--gera_senha_Luis.py
+       |     |           |     |
+       |     |           |     +--criptografia_senhas.py
+       |     |           |     |
+       |     |           |     +--conta_zeros_Luis.py
+       |     |           |     |
+       |     |           |     +--validacpf_luis.py
+       |     |           |     |
+       |     |           |     +--converte_romano_Luis.py
+       |     |           |
+       |     |           +--<templates>
+       |     |                 |
+       |     |                 +--cpf.jinja2
+       |     |                 |
+       |     |                 +--romanos.jinja2
+       |     |                 |
+       |     |                 +--indexx.html
+       |     |                 |
+       |     |                 +--index2.html
+       |     |                 |
+       |     |                 +--zeros.jinja2
+       |     |                 |
+       |     |                 +--senha.jinja2
+       |     |
+       |     +--<desafio_cpf>
+       |     |     |
+       |     |     +--<.git>
+       |     |     |     |
+       |     |     |     +--HEAD
+       |     |     |     |
+       |     |     |     +--config
+       |     |     |     |
+       |     |     |     +--description
+       |     |     |     |
+       |     |     |     +--<refs>
+       |     |     |     |     |
+       |     |     |     |     +--<tags>
+       |     |     |     |     |
+       |     |     |     |     +--<remotes>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<origin>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--master
+       |     |     |     |     |
+       |     |     |     |     +--<heads>
+       |     |     |     |           |
+       |     |     |     |           +--master
+       |     |     |     |
+       |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--exclude
+       |     |     |     |
+       |     |     |     +--COMMIT_EDITMSG
+       |     |     |     |
+       |     |     |     +--<branches>
+       |     |     |     |
+       |     |     |     +--index
+       |     |     |     |
+       |     |     |     +--<logs>
+       |     |     |     |     |
+       |     |     |     |     +--HEAD
+       |     |     |     |     |
+       |     |     |     |     +--<refs>
+       |     |     |     |           |
+       |     |     |     |           +--<remotes>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<origin>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--master
+       |     |     |     |           |
+       |     |     |     |           +--<heads>
+       |     |     |     |                 |
+       |     |     |     |                 +--master
+       |     |     |     |
+       |     |     |     +--<objects>
+       |     |     |     |     |
+       |     |     |     |     +--<pack>
+       |     |     |     |     |
+       |     |     |     |     +--<2c>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--583b164c7df254018b6e9c27355cbfd506bdb2
+       |     |     |     |     |     |
+       |     |     |     |     |     +--a61dcf555a5ddc5910e223644eedcab4e19043
+       |     |     |     |     |
+       |     |     |     |     +--<af>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--5aa1790655b27214207c3c01139aa014297e21
+       |     |     |     |     |
+       |     |     |     |     +--<6e>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--cf30cf01ac0fb98a76167a4dd2dbfeb2c5e02b
+       |     |     |     |     |
+       |     |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--<71>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--1c00d9ff2c0c02d5448607f54c2385125ba278
+       |     |     |     |     |
+       |     |     |     |     +--<f4>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--807a2f464d29e308e4b5a09387f165857fffa1
+       |     |     |     |     |
+       |     |     |     |     +--<14>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--c6c239ae8baeac68673f1c11ec4099825e228f
+       |     |     |     |     |
+       |     |     |     |     +--<b3>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--30f3d055795e8d0a89c9e9740049a47f48acc6
+       |     |     |     |     |
+       |     |     |     |     +--<79>
+       |     |     |     |           |
+       |     |     |     |           +--c5b86adbc354410f34c47ea5b8421f10c7728a
+       |     |     |     |
+       |     |     |     +--<hooks>
+       |     |     |           |
+       |     |     |           +--update.sample
+       |     |     |           |
+       |     |     |           +--prepare-commit-msg.sample
+       |     |     |           |
+       |     |     |           +--pre-push.sample
+       |     |     |           |
+       |     |     |           +--pre-commit.sample
+       |     |     |           |
+       |     |     |           +--commit-msg.sample
+       |     |     |           |
+       |     |     |           +--fsmonitor-watchman.sample
+       |     |     |           |
+       |     |     |           +--pre-rebase.sample
+       |     |     |           |
+       |     |     |           +--applypatch-msg.sample
+       |     |     |           |
+       |     |     |           +--post-update.sample
+       |     |     |           |
+       |     |     |           +--pre-receive.sample
+       |     |     |           |
+       |     |     |           +--pre-applypatch.sample
+       |     |     |
+       |     |     +--<validacpf_Luis>
+       |     |           |
+       |     |           +--validacpf_luis.py
+       |     |           |
+       |     |           +--test_validacpf_luis.py
+       |     |
+       |     +--<gerador_de_senha>
+       |     |     |
+       |     |     +--<.git>
+       |     |     |     |
+       |     |     |     +--HEAD
+       |     |     |     |
+       |     |     |     +--config
+       |     |     |     |
+       |     |     |     +--description
+       |     |     |     |
+       |     |     |     +--<refs>
+       |     |     |     |     |
+       |     |     |     |     +--<tags>
+       |     |     |     |     |
+       |     |     |     |     +--<remotes>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<origin>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--master
+       |     |     |     |     |
+       |     |     |     |     +--<heads>
+       |     |     |     |           |
+       |     |     |     |           +--master
+       |     |     |     |
+       |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--exclude
+       |     |     |     |
+       |     |     |     +--COMMIT_EDITMSG
+       |     |     |     |
+       |     |     |     +--<branches>
+       |     |     |     |
+       |     |     |     +--index
+       |     |     |     |
+       |     |     |     +--<logs>
+       |     |     |     |     |
+       |     |     |     |     +--HEAD
+       |     |     |     |     |
+       |     |     |     |     +--<refs>
+       |     |     |     |           |
+       |     |     |     |           +--<remotes>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<origin>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--master
+       |     |     |     |           |
+       |     |     |     |           +--<heads>
+       |     |     |     |                 |
+       |     |     |     |                 +--master
+       |     |     |     |
+       |     |     |     +--<objects>
+       |     |     |     |     |
+       |     |     |     |     +--<3f>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--a953101a9d33215cbb9de484cca89b05984dc8
+       |     |     |     |     |
+       |     |     |     |     +--<pack>
+       |     |     |     |     |
+       |     |     |     |     +--<6c>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--fef9261e52c4f70943ceb69ca1d047c9b94a41
+       |     |     |     |     |
+       |     |     |     |     +--<af>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--f603cc909fd777de76d31b51389dfcade3c32f
+       |     |     |     |     |
+       |     |     |     |     +--<4f>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--daccbb098aa9e23f591c2a90335c1e5fee34fe
+       |     |     |     |     |
+       |     |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--<bd>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--9fd796ae908586a91a6a94ed91403662db68f7
+       |     |     |     |     |
+       |     |     |     |     +--<c2>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--00ce20f009f7eb1f2023f2f389f9e0d8c50b4f
+       |     |     |     |     |
+       |     |     |     |     +--<3b>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--4ab00bca15fe6e4cb71028d13951490f38dd65
+       |     |     |     |     |
+       |     |     |     |     +--<4c>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--01fc1c3e62ae8730f875874cc0dbada2913750
+       |     |     |     |     |
+       |     |     |     |     +--<58>
+       |     |     |     |           |
+       |     |     |     |           +--f4b34aac6d53d3e58500e86a22ddbd39e4399e
+       |     |     |     |
+       |     |     |     +--<hooks>
+       |     |     |           |
+       |     |     |           +--update.sample
+       |     |     |           |
+       |     |     |           +--prepare-commit-msg.sample
+       |     |     |           |
+       |     |     |           +--pre-push.sample
+       |     |     |           |
+       |     |     |           +--pre-commit.sample
+       |     |     |           |
+       |     |     |           +--commit-msg.sample
+       |     |     |           |
+       |     |     |           +--fsmonitor-watchman.sample
+       |     |     |           |
+       |     |     |           +--pre-rebase.sample
+       |     |     |           |
+       |     |     |           +--applypatch-msg.sample
+       |     |     |           |
+       |     |     |           +--post-update.sample
+       |     |     |           |
+       |     |     |           +--pre-receive.sample
+       |     |     |           |
+       |     |     |           +--pre-applypatch.sample
+       |     |     |
+       |     |     +--<gerador_senha_Luis>
+       |     |           |
+       |     |           +--test_gera_senha_Luis.py
+       |     |           |
+       |     |           +--gera_senha_Luis.py
+       |     |
+       |     +--<Moedas_Luis>
+       |     |     |
+       |     |     +--<moedas>
+       |     |           |
+       |     |           +--<.git>
+       |     |           |     |
+       |     |           |     +--HEAD
+       |     |           |     |
+       |     |           |     +--config
+       |     |           |     |
+       |     |           |     +--description
+       |     |           |     |
+       |     |           |     +--<refs>
+       |     |           |     |     |
+       |     |           |     |     +--<tags>
+       |     |           |     |     |
+       |     |           |     |     +--<remotes>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--<origin>
+       |     |           |     |     |           |
+       |     |           |     |     |           +--master
+       |     |           |     |     |
+       |     |           |     |     +--<heads>
+       |     |           |     |           |
+       |     |           |     |           +--master
+       |     |           |     |
+       |     |           |     +--<info>
+       |     |           |     |     |
+       |     |           |     |     +--exclude
+       |     |           |     |
+       |     |           |     +--COMMIT_EDITMSG
+       |     |           |     |
+       |     |           |     +--<branches>
+       |     |           |     |
+       |     |           |     +--index
+       |     |           |     |
+       |     |           |     +--<logs>
+       |     |           |     |     |
+       |     |           |     |     +--HEAD
+       |     |           |     |     |
+       |     |           |     |     +--<refs>
+       |     |           |     |           |
+       |     |           |     |           +--<remotes>
+       |     |           |     |           |     |
+       |     |           |     |           |     +--<origin>
+       |     |           |     |           |           |
+       |     |           |     |           |           +--master
+       |     |           |     |           |
+       |     |           |     |           +--<heads>
+       |     |           |     |                 |
+       |     |           |     |                 +--master
+       |     |           |     |
+       |     |           |     +--<objects>
+       |     |           |     |     |
+       |     |           |     |     +--<9a>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--7d5752b59916a6d190397b275ae29393af8a84
+       |     |           |     |     |
+       |     |           |     |     +--<0a>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--452792c9929c7e5d0be72c570aa23e84907ba3
+       |     |           |     |     |
+       |     |           |     |     +--<pack>
+       |     |           |     |     |
+       |     |           |     |     +--<de>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--a68fe9615b77059b3c8d4ecec19f749d3e46d9
+       |     |           |     |     |
+       |     |           |     |     +--<info>
+       |     |           |     |     |
+       |     |           |     |     +--<df>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--126d5bc397601c0b13c4f7def2eec40f3f69aa
+       |     |           |     |     |
+       |     |           |     |     +--<c1>
+       |     |           |     |           |
+       |     |           |     |           +--6176326860d2c4a64c041e983562cc1c425671
+       |     |           |     |
+       |     |           |     +--<hooks>
+       |     |           |           |
+       |     |           |           +--update.sample
+       |     |           |           |
+       |     |           |           +--prepare-commit-msg.sample
+       |     |           |           |
+       |     |           |           +--pre-push.sample
+       |     |           |           |
+       |     |           |           +--pre-commit.sample
+       |     |           |           |
+       |     |           |           +--commit-msg.sample
+       |     |           |           |
+       |     |           |           +--fsmonitor-watchman.sample
+       |     |           |           |
+       |     |           |           +--pre-rebase.sample
+       |     |           |           |
+       |     |           |           +--applypatch-msg.sample
+       |     |           |           |
+       |     |           |           +--post-update.sample
+       |     |           |           |
+       |     |           |           +--pre-receive.sample
+       |     |           |           |
+       |     |           |           +--pre-applypatch.sample
+       |     |           |
+       |     |           +--<MOEDAS_LUIS>
+       |     |                 |
+       |     |                 +--MOEDAS_LUIS.py
+       |     |                 |
+       |     |                 +--test_MOEDAS_LUIS.py
+       |     |
+       |     +--<conta_zeros>
+       |     |     |
+       |     |     +--<.git>
+       |     |     |     |
+       |     |     |     +--HEAD
+       |     |     |     |
+       |     |     |     +--config
+       |     |     |     |
+       |     |     |     +--description
+       |     |     |     |
+       |     |     |     +--<refs>
+       |     |     |     |     |
+       |     |     |     |     +--<tags>
+       |     |     |     |     |
+       |     |     |     |     +--<remotes>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<origin>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--master
+       |     |     |     |     |
+       |     |     |     |     +--<heads>
+       |     |     |     |           |
+       |     |     |     |           +--master
+       |     |     |     |
+       |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--exclude
+       |     |     |     |
+       |     |     |     +--COMMIT_EDITMSG
+       |     |     |     |
+       |     |     |     +--<branches>
+       |     |     |     |
+       |     |     |     +--index
+       |     |     |     |
+       |     |     |     +--<logs>
+       |     |     |     |     |
+       |     |     |     |     +--HEAD
+       |     |     |     |     |
+       |     |     |     |     +--<refs>
+       |     |     |     |           |
+       |     |     |     |           +--<remotes>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<origin>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--master
+       |     |     |     |           |
+       |     |     |     |           +--<heads>
+       |     |     |     |                 |
+       |     |     |     |                 +--master
+       |     |     |     |
+       |     |     |     +--<objects>
+       |     |     |     |     |
+       |     |     |     |     +--<38>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--2ac29332b79601f45c90b8af22d316300dad22
+       |     |     |     |     |
+       |     |     |     |     +--<pack>
+       |     |     |     |     |
+       |     |     |     |     +--<info>
+       |     |     |     |     |
+       |     |     |     |     +--<6f>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--0a66480e6a69290588f457814dfddb789481d5
+       |     |     |     |     |
+       |     |     |     |     +--<e5>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--b7bb93a10f3655b54b87949b46764e82b72a44
+       |     |     |     |     |
+       |     |     |     |     +--<ad>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--73655ba5ea54dbf44bf9d0237521298e11e9da
+       |     |     |     |     |
+       |     |     |     |     +--<d7>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--a4c6b8db9188d3f90d58814309e2ffb705a914
+       |     |     |     |     |
+       |     |     |     |     +--<35>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--e998298e5a8868999c1081f3423c7eefc36b5f
+       |     |     |     |     |     |
+       |     |     |     |     |     +--fa8141393073197a93881543737cc354d32b5e
+       |     |     |     |     |
+       |     |     |     |     +--<37>
+       |     |     |     |           |
+       |     |     |     |           +--74a1b6a4c2cecab3333f47dd49dc38bcc00a4e
+       |     |     |     |           |
+       |     |     |     |           +--b0a76d04bb61205e472c0840704c005e3d4554
+       |     |     |     |
+       |     |     |     +--<hooks>
+       |     |     |           |
+       |     |     |           +--update.sample
+       |     |     |           |
+       |     |     |           +--prepare-commit-msg.sample
+       |     |     |           |
+       |     |     |           +--pre-push.sample
+       |     |     |           |
+       |     |     |           +--pre-commit.sample
+       |     |     |           |
+       |     |     |           +--commit-msg.sample
+       |     |     |           |
+       |     |     |           +--fsmonitor-watchman.sample
+       |     |     |           |
+       |     |     |           +--pre-rebase.sample
+       |     |     |           |
+       |     |     |           +--applypatch-msg.sample
+       |     |     |           |
+       |     |     |           +--post-update.sample
+       |     |     |           |
+       |     |     |           +--pre-receive.sample
+       |     |     |           |
+       |     |     |           +--pre-applypatch.sample
+       |     |     |
+       |     |     +--<conta_zeros_Luis>
+       |     |           |
+       |     |           +--conta_zeros_Luis.py
+       |     |           |
+       |     |           +--test_conta_zeros_Luis.py
+       |     |
+       |     +--<desafio_romanos>
+       |     |     |
+       |     |     +--<converte_romanos_Luis>
+       |     |     |     |
+       |     |     |     +--test_converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |
+       |     |     +--<conversor_romanos>
+       |     |           |
+       |     |           +--<.git>
+       |     |           |     |
+       |     |           |     +--HEAD
+       |     |           |     |
+       |     |           |     +--config
+       |     |           |     |
+       |     |           |     +--description
+       |     |           |     |
+       |     |           |     +--<refs>
+       |     |           |     |     |
+       |     |           |     |     +--<tags>
+       |     |           |     |     |
+       |     |           |     |     +--<remotes>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--<origin>
+       |     |           |     |     |           |
+       |     |           |     |     |           +--master
+       |     |           |     |     |
+       |     |           |     |     +--<heads>
+       |     |           |     |           |
+       |     |           |     |           +--master
+       |     |           |     |
+       |     |           |     +--<info>
+       |     |           |     |     |
+       |     |           |     |     +--exclude
+       |     |           |     |
+       |     |           |     +--COMMIT_EDITMSG
+       |     |           |     |
+       |     |           |     +--<branches>
+       |     |           |     |
+       |     |           |     +--index
+       |     |           |     |
+       |     |           |     +--<logs>
+       |     |           |     |     |
+       |     |           |     |     +--HEAD
+       |     |           |     |     |
+       |     |           |     |     +--<refs>
+       |     |           |     |           |
+       |     |           |     |           +--<remotes>
+       |     |           |     |           |     |
+       |     |           |     |           |     +--<origin>
+       |     |           |     |           |           |
+       |     |           |     |           |           +--master
+       |     |           |     |           |
+       |     |           |     |           +--<heads>
+       |     |           |     |                 |
+       |     |           |     |                 +--master
+       |     |           |     |
+       |     |           |     +--<objects>
+       |     |           |     |     |
+       |     |           |     |     +--<pack>
+       |     |           |     |     |
+       |     |           |     |     +--<b1>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--953d01c38bbff381a588b1aaa3df3c303ab09b
+       |     |           |     |     |
+       |     |           |     |     +--<info>
+       |     |           |     |     |
+       |     |           |     |     +--<97>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--27d99a5856986d3d136d6350cae4cb6fc3f1a4
+       |     |           |     |     |
+       |     |           |     |     +--<ae>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--b23f2a95fe1bacaecc3231dc8e7365d18f250e
+       |     |           |     |     |
+       |     |           |     |     +--<fe>
+       |     |           |     |     |     |
+       |     |           |     |     |     +--f48dec347c372cbd4da2197badd02bc9959708
+       |     |           |     |     |
+       |     |           |     |     +--<fc>
+       |     |           |     |           |
+       |     |           |     |           +--e429ff25e327d0e6a9ead4427ae81a8a65f182
+       |     |           |     |
+       |     |           |     +--<hooks>
+       |     |           |           |
+       |     |           |           +--update.sample
+       |     |           |           |
+       |     |           |           +--prepare-commit-msg.sample
+       |     |           |           |
+       |     |           |           +--pre-push.sample
+       |     |           |           |
+       |     |           |           +--pre-commit.sample
+       |     |           |           |
+       |     |           |           +--commit-msg.sample
+       |     |           |           |
+       |     |           |           +--fsmonitor-watchman.sample
+       |     |           |           |
+       |     |           |           +--pre-rebase.sample
+       |     |           |           |
+       |     |           |           +--applypatch-msg.sample
+       |     |           |           |
+       |     |           |           +--post-update.sample
+       |     |           |           |
+       |     |           |           +--pre-receive.sample
+       |     |           |           |
+       |     |           |           +--pre-applypatch.sample
+       |     |           |
+       |     |           +--<converte_romanos_Luis>
+       |     |                 |
+       |     |                 +--test_converte_romano_Luis.py
+       |     |                 |
+       |     |                 +--converte_romano_Luis.py
+       |     |
+       |     +--<criptografia_senha>
+       |     |     |
+       |     |     +--criptografia_senhas.py
+       |     |     |
+       |     |     +--<criptografia_Senha>
+       |     |     |     |
+       |     |     |     +--<Criptografia_senha_Luis>
+       |     |     |     |     |
+       |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |
+       |     |     |     |     +--test_criptografia_senhas.py
+       |     |     |     |
+       |     |     |     +--<.git>
+       |     |     |           |
+       |     |     |           +--HEAD
+       |     |     |           |
+       |     |     |           +--config
+       |     |     |           |
+       |     |     |           +--description
+       |     |     |           |
+       |     |     |           +--<refs>
+       |     |     |           |     |
+       |     |     |           |     +--<tags>
+       |     |     |           |     |
+       |     |     |           |     +--<remotes>
+       |     |     |           |     |     |
+       |     |     |           |     |     +--<origin>
+       |     |     |           |     |           |
+       |     |     |           |     |           +--master
+       |     |     |           |     |
+       |     |     |           |     +--<heads>
+       |     |     |           |           |
+       |     |     |           |           +--master
+       |     |     |           |
+       |     |     |           +--<info>
+       |     |     |           |     |
+       |     |     |           |     +--exclude
+       |     |     |           |
+       |     |     |           +--COMMIT_EDITMSG
+       |     |     |           |
+       |     |     |           +--<branches>
+       |     |     |           |
+       |     |     |           +--index
+       |     |     |           |
+       |     |     |           +--<logs>
+       |     |     |           |     |
+       |     |     |           |     +--HEAD
+       |     |     |           |     |
+       |     |     |           |     +--<refs>
+       |     |     |           |           |
+       |     |     |           |           +--<remotes>
+       |     |     |           |           |     |
+       |     |     |           |           |     +--<origin>
+       |     |     |           |           |           |
+       |     |     |           |           |           +--master
+       |     |     |           |           |
+       |     |     |           |           +--<heads>
+       |     |     |           |                 |
+       |     |     |           |                 +--master
+       |     |     |           |
+       |     |     |           +--<objects>
+       |     |     |           |     |
+       |     |     |           |     +--<b7>
+       |     |     |           |     |     |
+       |     |     |           |     |     +--e8747283e015318fe254850982ef7a15fb2ee4
+       |     |     |           |     |
+       |     |     |           |     +--<pack>
+       |     |     |           |     |
+       |     |     |           |     +--<77>
+       |     |     |           |     |     |
+       |     |     |           |     |     +--5ad207c13c805748a3d66320049ae3bae8c32a
+       |     |     |           |     |
+       |     |     |           |     +--<d9>
+       |     |     |           |     |     |
+       |     |     |           |     |     +--0845f055cbc0e40758865684d77116fe39dace
+       |     |     |           |     |
+       |     |     |           |     +--<info>
+       |     |     |           |     |
+       |     |     |           |     +--<e0>
+       |     |     |           |     |     |
+       |     |     |           |     |     +--fc5f2e94888b71f97ac826c41d6cf6795a1a80
+       |     |     |           |     |
+       |     |     |           |     +--<40>
+       |     |     |           |           |
+       |     |     |           |           +--4fd82dbfd6e661e540e63914fb00859bceffe1
+       |     |     |           |
+       |     |     |           +--<hooks>
+       |     |     |                 |
+       |     |     |                 +--update.sample
+       |     |     |                 |
+       |     |     |                 +--prepare-commit-msg.sample
+       |     |     |                 |
+       |     |     |                 +--pre-push.sample
+       |     |     |                 |
+       |     |     |                 +--pre-commit.sample
+       |     |     |                 |
+       |     |     |                 +--commit-msg.sample
+       |     |     |                 |
+       |     |     |                 +--fsmonitor-watchman.sample
+       |     |     |                 |
+       |     |     |                 +--pre-rebase.sample
+       |     |     |                 |
+       |     |     |                 +--applypatch-msg.sample
+       |     |     |                 |
+       |     |     |                 +--post-update.sample
+       |     |     |                 |
+       |     |     |                 +--pre-receive.sample
+       |     |     |                 |
+       |     |     |                 +--pre-applypatch.sample
+       |     |     |
+       |     |     +--test_criptografia_senhas.py
+       |     |
+       |     +--<desafio_qualifica_senha>
+       |           |
+       |           +--<.git>
+       |           |     |
+       |           |     +--HEAD
+       |           |     |
+       |           |     +--config
+       |           |     |
+       |           |     +--description
+       |           |     |
+       |           |     +--<refs>
+       |           |     |     |
+       |           |     |     +--<tags>
+       |           |     |     |
+       |           |     |     +--<remotes>
+       |           |     |     |     |
+       |           |     |     |     +--<origin>
+       |           |     |     |           |
+       |           |     |     |           +--master
+       |           |     |     |
+       |           |     |     +--<heads>
+       |           |     |           |
+       |           |     |           +--master
+       |           |     |
+       |           |     +--<info>
+       |           |     |     |
+       |           |     |     +--exclude
+       |           |     |
+       |           |     +--COMMIT_EDITMSG
+       |           |     |
+       |           |     +--<branches>
+       |           |     |
+       |           |     +--index
+       |           |     |
+       |           |     +--<logs>
+       |           |     |     |
+       |           |     |     +--HEAD
+       |           |     |     |
+       |           |     |     +--<refs>
+       |           |     |           |
+       |           |     |           +--<remotes>
+       |           |     |           |     |
+       |           |     |           |     +--<origin>
+       |           |     |           |           |
+       |           |     |           |           +--master
+       |           |     |           |
+       |           |     |           +--<heads>
+       |           |     |                 |
+       |           |     |                 +--master
+       |           |     |
+       |           |     +--<objects>
+       |           |     |     |
+       |           |     |     +--<3f>
+       |           |     |     |     |
+       |           |     |     |     +--0a40920f1160ea5d964c816023c3c6bfc0fd70
+       |           |     |     |
+       |           |     |     +--<f7>
+       |           |     |     |     |
+       |           |     |     |     +--e65961b1eb063b1a5958c823149bf010b81b7f
+       |           |     |     |
+       |           |     |     +--<c5>
+       |           |     |     |     |
+       |           |     |     |     +--b996c845d855c70cf8b04f0486917766da5e19
+       |           |     |     |
+       |           |     |     +--<54>
+       |           |     |     |     |
+       |           |     |     |     +--3ae8215f72c64c823804c37e1c2851f795e6b5
+       |           |     |     |
+       |           |     |     +--<a0>
+       |           |     |     |     |
+       |           |     |     |     +--80f8014f1c9e6e1f343212e54524216bf578ce
+       |           |     |     |
+       |           |     |     +--<e8>
+       |           |     |     |     |
+       |           |     |     |     +--2946fc4858cd580dc3fb8b1ae67e45b6f6a048
+       |           |     |     |
+       |           |     |     +--<pack>
+       |           |     |     |
+       |           |     |     +--<5f>
+       |           |     |     |     |
+       |           |     |     |     +--41646ad0cf5272f2fd31d99e054ec609b09652
+       |           |     |     |
+       |           |     |     +--<9e>
+       |           |     |     |     |
+       |           |     |     |     +--2d1bbedb10c81bef32874c50758cf7a4a5350b
+       |           |     |     |
+       |           |     |     +--<info>
+       |           |     |     |
+       |           |     |     +--<d1>
+       |           |     |     |     |
+       |           |     |     |     +--2647567712ceb8ed2184d92bd9e01580667304
+       |           |     |     |
+       |           |     |     +--<ef>
+       |           |     |     |     |
+       |           |     |     |     +--e70b04ee3623c2a0cb7da5eadf17e82a4ad16e
+       |           |     |     |
+       |           |     |     +--<74>
+       |           |     |     |     |
+       |           |     |     |     +--b9cdd02b90af04c2b5f7180c8c846bfae80ece
+       |           |     |     |
+       |           |     |     +--<e7>
+       |           |     |     |     |
+       |           |     |     |     +--dd59c355d10d56eafa7fed691e300161f1f19d
+       |           |     |     |
+       |           |     |     +--<8a>
+       |           |     |           |
+       |           |     |           +--4571a476986ba36ece43ea846bd2e8dd60b581
+       |           |     |
+       |           |     +--<hooks>
+       |           |           |
+       |           |           +--update.sample
+       |           |           |
+       |           |           +--prepare-commit-msg.sample
+       |           |           |
+       |           |           +--pre-push.sample
+       |           |           |
+       |           |           +--pre-commit.sample
+       |           |           |
+       |           |           +--commit-msg.sample
+       |           |           |
+       |           |           +--fsmonitor-watchman.sample
+       |           |           |
+       |           |           +--pre-rebase.sample
+       |           |           |
+       |           |           +--applypatch-msg.sample
+       |           |           |
+       |           |           +--post-update.sample
+       |           |           |
+       |           |           +--pre-receive.sample
+       |           |           |
+       |           |           +--pre-applypatch.sample
+       |           |
+       |           +--<qualifica_senha_Luis>
+       |                 |
+       |                 +--classifica_senha.py
+       |                 |
+       |                 +--test_classifica_senha.py
+       |
+       +--<VM_HADOOP_ESSENTIALS_30GB>
+       |     |
+       |     +--Hadoop_Essentials_30GB.ova
+       |
+       +--programa
+       |
+       +--<Python_aulas>
+       |     |
+       |     +--padrões
+       |     |
+       |     +--bibliotecas
+       |     |
+       |     +--metodo_thread
+       |     |
+       |     +--expressoes_regulares
+       |     |
+       |     +--lambda-dg.pdf
+       |     |
+       |     +--<Cap2>
+       |     |     |
+       |     |     +--cap2_aula9.py
+       |     |     |
+       |     |     +--cap2_aula3_leitura.sh
+       |     |     |
+       |     |     +--amostra_cap2_aula4.txt
+       |     |     |
+       |     |     +--cap2_aula3.py
+       |     |     |
+       |     |     +--cap2_aula3_1.py
+       |     |     |
+       |     |     +--Cap2_Aula4.ipynb
+       |     |     |
+       |     |     +--cap2_aula6.py
+       |     |     |
+       |     |     +--Cap2_Aula4.py
+       |     |     |
+       |     |     +--cap2_aula5.json
+       |     |     |
+       |     |     +--FL_insurance_sample.csv
+       |     |     |
+       |     |     +--Cap2_Aula2_3.ipynb
+       |     |     |
+       |     |     +--cap2_aula5.py
+       |     |     |
+       |     |     +--cap2_aula7.py
+       |     |     |
+       |     |     +--cl2_al4.sh
+       |     |     |
+       |     |     +--cap2_aula6_1.py
+       |     |
+       |     +--programa
+       |     |
+       |     +--<Cap4>
+       |     |     |
+       |     |     +--logsgen.txt
+       |     |     |
+       |     |     +--cap4_aula1_lab2.py
+       |     |     |
+       |     |     +--cap4_aula2_lab2_1.py
+       |     |     |
+       |     |     +--cap4_aula2_lab2_2.py
+       |     |     |
+       |     |     +--cap4al1.db
+       |     |     |
+       |     |     +--cap4_aula2_lab2_3.py
+       |     |     |
+       |     |     +--cap4_aula1_val.txt
+       |     |     |
+       |     |     +--cap4_aula1_lab3.py
+       |     |     |
+       |     |     +--cap4_aula2_lab1.py
+       |     |
+       |     +--<Cap1>
+       |     |     |
+       |     |     +--main_code.py
+       |     |     |
+       |     |     +--gender_submission.csv
+       |     |     |
+       |     |     +--Cap1_basico.ipynb
+       |     |     |
+       |     |     +--Cap1.ipynb
+       |     |     |
+       |     |     +--sub1.py
+       |     |
+       |     +--<Cap3>
+       |           |
+       |           +--cap3_aula7_1.py
+       |           |
+       |           +--cap3_aula6_1.py
+       |           |
+       |           +--test.csv
+       |           |
+       |           +--cap3_aula6_2.py
+       |           |
+       |           +--cap3_aula3_2.py
+       |           |
+       |           +--cap3_aula3.py
+       |           |
+       |           +--test2.csv
+       |           |
+       |           +--cap3_aula3_diagram_relacional.png
+       |           |
+       |           +--edutech_2
+       |           |
+       |           +--temp3.csv
+       |           |
+       |           +--package.json
+       |           |
+       |           +--FL_insurance_sample.csv
+       |           |
+       |           +--cap3_aula2.py
+       |           |
+       |           +--sample.txt
+       |           |
+       |           +--edutech.db
+       |           |
+       |           +--cap3_aula7_2.py
+       |           |
+       |           +--cap3_aula4.py
+       |
+       +--<exer1>
+       |     |
+       |     +--resposta4a.mwb.bak
+       |     |
+       |     +--resposta4a.mwb.bak.bak
+       |     |
+       |     +--aula1.py
+       |     |
+       |     +--resposta3.py
+       |     |
+       |     +--resposta1.py
+       |     |
+       |     +--resposta2.py
+       |     |
+       |     +--resposta4b.sql
+       |     |
+       |     +--resposta6.sh
+       |     |
+       |     +--<.idea>
+       |     |     |
+       |     |     +--exer1.iml
+       |     |     |
+       |     |     +--<libraries>
+       |     |     |     |
+       |     |     |     +--R_User_Library.xml
+       |     |     |
+       |     |     +--modules.xml
+       |     |     |
+       |     |     +--workspace.xml
+       |     |
+       |     +--resposta5.py
+       |     |
+       |     +--resposta5.txt
+       |     |
+       |     +--resposta4a.sql
+       |     |
+       |     +--resposta2.txt
+       |     |
+       |     +--resposta3.txt
+       |
+       +--Documento sem título 1
+       |
+       +--romanos_luis.py
+       |
+       +--<teste_web_service>
+       |     |
+       |     +--<conta_zeros_Luis>
+       |     |     |
+       |     |     +--conta_zeros_Luis.py
+       |     |     |
+       |     |     +--test_conta_zeros_Luis.py
+       |     |
+       |     +--<gerador_senha_Luis>
+       |     |     |
+       |     |     +--test_gera_senha_Luis.py
+       |     |     |
+       |     |     +--gera_senha_Luis.py
+       |     |
+       |     +--webservice.py
+       |     |
+       |     +--<converte_romanos_Luis>
+       |     |     |
+       |     |     +--test_converte_romano_Luis.py
+       |     |     |
+       |     |     +--converte_romano_Luis.py
+       |     |
+       |     +--<source>
+       |     |     |
+       |     |     +--classifica_senha.py
+       |     |     |
+       |     |     +--gera_senha_Luis.py
+       |     |     |
+       |     |     +--criptografia_senhas.py
+       |     |     |
+       |     |     +--__init__.py
+       |     |     |
+       |     |     +--conta_zeros_Luis.py
+       |     |     |
+       |     |     +--validacpf_luis.py
+       |     |     |
+       |     |     +--converte_romano_Luis.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |           |
+       |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |           |
+       |     |           +--__init__.cpython-36.pyc
+       |     |           |
+       |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |           |
+       |     |           +--classifica_senha.cpython-36.pyc
+       |     |           |
+       |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |           |
+       |     |           +--validacpf_luis.cpython-36.pyc
+       |     |           |
+       |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |
+       |     +--<qualifica_senha_Luis>
+       |     |     |
+       |     |     +--classifica_senha.py
+       |     |     |
+       |     |     +--test_classifica_senha.py
+       |     |
+       |     +--<Teste_webservice>
+       |     |     |
+       |     |     +--<Template>
+       |     |     |     |
+       |     |     |     +--__init__.py
+       |     |     |     |
+       |     |     |     +--index.html
+       |     |     |
+       |     |     +--<source>
+       |     |     |     |
+       |     |     |     +--classifica_senha.py
+       |     |     |     |
+       |     |     |     +--gera_senha_Luis.py
+       |     |     |     |
+       |     |     |     +--criptografia_senhas.py
+       |     |     |     |
+       |     |     |     +--__init__.py
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |
+       |     |     |     +--validacpf_luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--__init__.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--<novo_web>
+       |     |     |     |
+       |     |     |     +--<aiohttpdemo_polls>
+       |     |     |     |
+       |     |     |     +--web.service.py
+       |     |     |
+       |     |     +--front.py
+       |     |     |
+       |     |     +--<test>
+       |     |     |     |
+       |     |     |     +--<source>
+       |     |     |     |     |
+       |     |     |     |     +--classifica_senha.py
+       |     |     |     |     |
+       |     |     |     |     +--gera_senha_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |
+       |     |     |     |     +--__init__.py
+       |     |     |     |     |
+       |     |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--validacpf_luis.py
+       |     |     |     |     |
+       |     |     |     |     +--converte_romano_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--<__pycache__>
+       |     |     |     |           |
+       |     |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--__init__.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--<.vscode>
+       |     |     |     |     |
+       |     |     |     |     +--settings.json
+       |     |     |     |
+       |     |     |     +--<templates>
+       |     |     |     |     |
+       |     |     |     |     +--index.jinja2
+       |     |     |     |     |
+       |     |     |     |     +--highorder.jinja2
+       |     |     |     |     |
+       |     |     |     |     +--sqla.jinja2
+       |     |     |     |     |
+       |     |     |     |     +--ajax.jinja2
+       |     |     |     |     |
+       |     |     |     |     +--error.jinja2
+       |     |     |     |     |
+       |     |     |     |     +--error.mako
+       |     |     |     |     |
+       |     |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--<aiohttp-debugtoolbar-master>
+       |     |     |     |     |
+       |     |     |     |     +--.pyup.yml
+       |     |     |     |     |
+       |     |     |     |     +--.coveragerc
+       |     |     |     |     |
+       |     |     |     |     +--.travis.yml
+       |     |     |     |     |
+       |     |     |     |     +--setup.cfg
+       |     |     |     |     |
+       |     |     |     |     +--<tests>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_middleware.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--conftest.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<tpl>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--test.jinja2
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<pep492>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--test_await.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_utils.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_server_push.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_exception_views.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_panel.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--test_debug.py
+       |     |     |     |     |
+       |     |     |     |     +--LICENSE
+       |     |     |     |     |
+       |     |     |     |     +--<examples>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<extra_panels>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--server.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--extra_redis.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--extra_pgsql.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--<extra_tpl>
+       |     |     |     |     |     |           |
+       |     |     |     |     |     |           +--request_pgsql.jinja2
+       |     |     |     |     |     |           |
+       |     |     |     |     |     |           +--request_redis.jinja2
+       |     |     |     |     |     |
+       |     |     |     |     |     +--simple.py
+       |     |     |     |     |
+       |     |     |     |     +--<aiohttp_debugtoolbar>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<tbtools>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--tbtools.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--console.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--__init__.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--repr.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--views.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--main.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<templates>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--exception_summary.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--redirect.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--console.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--settings_tab.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--global_tab.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--exception.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--history_tab.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--toolbar.jinja2
+       |     |     |     |     |     |
+       |     |     |     |     |     +--toolbar.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--utils.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--__init__.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<panels>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--settings.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--versions.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--base.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--<templates>
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--versions.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--performance.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--request_vars.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--logger.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--headers.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--middlewares.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--traceback.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--routes.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--settings.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--sqlalchemy_explain.jinja2
+       |     |     |     |     |     |     |     |
+       |     |     |     |     |     |     |     +--sqlalchemy_select.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--headers.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--__init__.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--performance.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--routes.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--traceback.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--logger.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--request_vars.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--middlewares.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--middlewares.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<static>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<fonts>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--glyphicons-halflings-regular.eot
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--glyphicons-halflings-regular.svg
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--glyphicons-halflings-regular.ttf
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--glyphicons-halflings-regular.woff
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--glyphicons-halflings-regular.woff2
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<js>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--bootstrap.min.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--toolbar.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--require.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--highlight.min.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--jquery-1.10.2.min.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--tests.html
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--prism.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--jquery-1.10.2.min.map
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--README.rst
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--jquery.cookie.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--debugger.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--jquery.tablesorter.min.js
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--r.js
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<img>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--source.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--more.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--tick-red.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--indicator.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--asc.gif
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--tick.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--console.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--panel_bg.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--close_hover.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--desc.gif
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--back_hover.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--aiohttp.svg
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--less.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--back.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--bg.gif
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--headerbg.png
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--close.png
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<font>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--FONT_LICENSE
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--ubuntu.ttf
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<css>
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--dashboard.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--debugger.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--prism.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--toolbar.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--toolbar_button.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--bootstrap.min.css
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--highlightjs_default.min.css
+       |     |     |     |     |
+       |     |     |     |     +--setup.py
+       |     |     |     |     |
+       |     |     |     |     +--<demo>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--aiohttp_debugtoolba_sceenshot.png
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<templates>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--index.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--highorder.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--sqla.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--ajax.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--error.jinja2
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--error.mako
+       |     |     |     |     |     |
+       |     |     |     |     |     +--demo.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--README.rst
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<static>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--jquery-1.7.2.min.js
+       |     |     |     |     |           |
+       |     |     |     |     |           +--require-1.0.6.js
+       |     |     |     |     |           |
+       |     |     |     |     |           +--main.js
+       |     |     |     |     |
+       |     |     |     |     +--Makefile
+       |     |     |     |     |
+       |     |     |     |     +--MANIFEST.in
+       |     |     |     |     |
+       |     |     |     |     +--CHANGES.txt
+       |     |     |     |     |
+       |     |     |     |     +--.gitignore
+       |     |     |     |     |
+       |     |     |     |     +--README.rst
+       |     |     |     |     |
+       |     |     |     |     +--requirements-dev.txt
+       |     |     |     |
+       |     |     |     +--web.service.py
+       |     |     |     |
+       |     |     |     +--.gitignore
+       |     |     |     |
+       |     |     |     +--<aiohttp-tutorial-step-01>
+       |     |     |     |     |
+       |     |     |     |     +--<.vscode>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--settings.json
+       |     |     |     |     |
+       |     |     |     |     +--<demo>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<source>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--classifica_senha.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--gera_senha_Luis.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--__init__.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--validacpf_luis.py
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--converte_romano_Luis.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<templates>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--index.html
+       |     |     |     |     |     |
+       |     |     |     |     |     +--__init__.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--routes.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--app.py
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<views>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--frontend.py
+       |     |     |     |     |           |
+       |     |     |     |     |           +--__init__.py
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<__pycache__>
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--frontend.cpython-36.pyc
+       |     |     |     |     |                 |
+       |     |     |     |     |                 +--__init__.cpython-36.pyc
+       |     |     |     |     |
+       |     |     |     |     +--entry.py
+       |     |     |     |     |
+       |     |     |     |     +--.gitignore
+       |     |     |     |
+       |     |     |     +--<static>
+       |     |     |           |
+       |     |     |           +--jquery-1.7.2.min.js
+       |     |     |           |
+       |     |     |           +--require-1.0.6.js
+       |     |     |           |
+       |     |     |           +--main.js
+       |     |     |
+       |     |     +--web.service.py
+       |     |     |
+       |     |     +--index.html
+       |     |     |
+       |     |     +--<views>
+       |     |     |     |
+       |     |     |     +--frontend.py
+       |     |     |     |
+       |     |     |     +--<source>
+       |     |     |     |     |
+       |     |     |     |     +--classifica_senha.py
+       |     |     |     |     |
+       |     |     |     |     +--gera_senha_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |
+       |     |     |     |     +--__init__.py
+       |     |     |     |     |
+       |     |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--validacpf_luis.py
+       |     |     |     |     |
+       |     |     |     |     +--converte_romano_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--<__pycache__>
+       |     |     |     |           |
+       |     |     |     |           +--__init__.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--__init__.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--frontend.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--__init__.cpython-36.pyc
+       |     |     |
+       |     |     +--<template>
+       |     |           |
+       |     |           +--__init__.py
+       |     |           |
+       |     |           +--index.html
+       |     |
+       |     +--local.py
+       |     |
+       |     +--web.service.py
+       |     |
+       |     +--<WEBSERVICE_HTML>
+       |     |     |
+       |     |     +--<Template>
+       |     |     |     |
+       |     |     |     +--romanos.html
+       |     |     |     |
+       |     |     |     +--base.html
+       |     |     |     |
+       |     |     |     +--senha.html
+       |     |     |     |
+       |     |     |     +--index.jinja2
+       |     |     |     |
+       |     |     |     +--<routes>
+       |     |     |     |     |
+       |     |     |     |     +--resposta.contador.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.senhas.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.romanos.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.cpf.html
+       |     |     |     |
+       |     |     |     +--SEMANTIX-LOGO.jpg
+       |     |     |     |
+       |     |     |     +--contact.html
+       |     |     |     |
+       |     |     |     +--zeros.html
+       |     |     |     |
+       |     |     |     +--highorder.jinja2
+       |     |     |     |
+       |     |     |     +--<src>
+       |     |     |     |     |
+       |     |     |     |     +--<js>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.js
+       |     |     |     |     |
+       |     |     |     |     +--<css>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.css
+       |     |     |     |     |
+       |     |     |     |     +--<vendor>
+       |     |     |     |           |
+       |     |     |     |           +--<materialize-v1.0.0>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<materialize>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<js>
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.js
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.min.js
+       |     |     |     |           |           |
+       |     |     |     |           |           +--LICENSE
+       |     |     |     |           |           |
+       |     |     |     |           |           +--README.md
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<css>
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.min.css
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.css
+       |     |     |     |           |
+       |     |     |     |           +--jquery.min.js
+       |     |     |     |
+       |     |     |     +--hello.html
+       |     |     |     |
+       |     |     |     +--sqla.jinja2
+       |     |     |     |
+       |     |     |     +--ajax.jinja2
+       |     |     |     |
+       |     |     |     +--error.jinja2
+       |     |     |     |
+       |     |     |     +--error.mako
+       |     |     |     |
+       |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--SEMANTIX-LOGO.png
+       |     |     |     |
+       |     |     |     +--download.jpeg
+       |     |     |     |
+       |     |     |     +--cpf.html
+       |     |     |     |
+       |     |     |     +--zeros.jinja2
+       |     |     |     |
+       |     |     |     +--senha.jinja2
+       |     |     |
+       |     |     +--front_takeshi.py
+       |     |     |
+       |     |     +--<source>
+       |     |     |     |
+       |     |     |     +--classifica_senha.py
+       |     |     |     |
+       |     |     |     +--gera_senha_Luis.py
+       |     |     |     |
+       |     |     |     +--criptografia_senhas.py
+       |     |     |     |
+       |     |     |     +--__init__.py
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |
+       |     |     |     +--validacpf_luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--__init__.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--<validadores>
+       |     |     |     |
+       |     |     |     +--romanos.html
+       |     |     |     |
+       |     |     |     +--<routes>
+       |     |     |     |     |
+       |     |     |     |     +--resposta.contador.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.senhas.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.romanos.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.cpf.html
+       |     |     |     |
+       |     |     |     +--senhas.html
+       |     |     |     |
+       |     |     |     +--contador.html
+       |     |     |     |
+       |     |     |     +--<src>
+       |     |     |     |     |
+       |     |     |     |     +--<js>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.js
+       |     |     |     |     |
+       |     |     |     |     +--<css>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.css
+       |     |     |     |     |
+       |     |     |     |     +--<vendor>
+       |     |     |     |           |
+       |     |     |     |           +--<materialize-v1.0.0>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<materialize>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<js>
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.js
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.min.js
+       |     |     |     |           |           |
+       |     |     |     |           |           +--LICENSE
+       |     |     |     |           |           |
+       |     |     |     |           |           +--README.md
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<css>
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.min.css
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.css
+       |     |     |     |           |
+       |     |     |     |           +--jquery.min.js
+       |     |     |     |
+       |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--cpf.html
+       |     |     |
+       |     |     +--<extra_panels>
+       |     |     |     |
+       |     |     |     +--server.py
+       |     |     |     |
+       |     |     |     +--extra_redis.py
+       |     |     |     |
+       |     |     |     +--extra_pgsql.py
+       |     |     |     |
+       |     |     |     +--<extra_tpl>
+       |     |     |           |
+       |     |     |           +--request_pgsql.jinja2
+       |     |     |           |
+       |     |     |           +--request_redis.jinja2
+       |     |     |
+       |     |     +--<templates>
+       |     |     |     |
+       |     |     |     +--romanos.html
+       |     |     |     |
+       |     |     |     +--cpf.jinja2
+       |     |     |     |
+       |     |     |     +--base.html
+       |     |     |     |
+       |     |     |     +--senha.html
+       |     |     |     |
+       |     |     |     +--index.jinja2
+       |     |     |     |
+       |     |     |     +--<routes>
+       |     |     |     |     |
+       |     |     |     |     +--resposta.contador.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.senhas.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.romanos.html
+       |     |     |     |     |
+       |     |     |     |     +--resposta.cpf.html
+       |     |     |     |
+       |     |     |     +--SEMANTIX-LOGO.jpg
+       |     |     |     |
+       |     |     |     +--contact.html
+       |     |     |     |
+       |     |     |     +--zeros.html
+       |     |     |     |
+       |     |     |     +--highorder.jinja2
+       |     |     |     |
+       |     |     |     +--romanos.jinja2
+       |     |     |     |
+       |     |     |     +--<src>
+       |     |     |     |     |
+       |     |     |     |     +--<js>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.js
+       |     |     |     |     |
+       |     |     |     |     +--<css>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--index.css
+       |     |     |     |     |
+       |     |     |     |     +--<vendor>
+       |     |     |     |           |
+       |     |     |     |           +--<materialize-v1.0.0>
+       |     |     |     |           |     |
+       |     |     |     |           |     +--<materialize>
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<js>
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.js
+       |     |     |     |           |           |     |
+       |     |     |     |           |           |     +--materialize.min.js
+       |     |     |     |           |           |
+       |     |     |     |           |           +--LICENSE
+       |     |     |     |           |           |
+       |     |     |     |           |           +--README.md
+       |     |     |     |           |           |
+       |     |     |     |           |           +--<css>
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.min.css
+       |     |     |     |           |                 |
+       |     |     |     |           |                 +--materialize.css
+       |     |     |     |           |
+       |     |     |     |           +--jquery.min.js
+       |     |     |     |
+       |     |     |     +--hello.html
+       |     |     |     |
+       |     |     |     +--sqla.jinja2
+       |     |     |     |
+       |     |     |     +--<index>
+       |     |     |     |     |
+       |     |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--ajax.jinja2
+       |     |     |     |
+       |     |     |     +--error.jinja2
+       |     |     |     |
+       |     |     |     +--error.mako
+       |     |     |     |
+       |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--index2.html
+       |     |     |     |
+       |     |     |     +--SEMANTIX-LOGO.png
+       |     |     |     |
+       |     |     |     +--download.jpeg
+       |     |     |     |
+       |     |     |     +--cpf.html
+       |     |     |     |
+       |     |     |     +--zeros.jinja2
+       |     |     |     |
+       |     |     |     +--senha.jinja2
+       |     |     |
+       |     |     +--web.py
+       |     |     |
+       |     |     +--front.py
+       |     |     |
+       |     |     +--web.service.py
+       |     |     |
+       |     |     +--<web_com_views>
+       |     |     |     |
+       |     |     |     +--<accounts>
+       |     |     |     |     |
+       |     |     |     |     +--home.html
+       |     |     |     |
+       |     |     |     +--<source>
+       |     |     |     |     |
+       |     |     |     |     +--classifica_senha.py
+       |     |     |     |     |
+       |     |     |     |     +--gera_senha_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |
+       |     |     |     |     +--__init__.py
+       |     |     |     |     |
+       |     |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--validacpf_luis.py
+       |     |     |     |     |
+       |     |     |     |     +--converte_romano_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--<__pycache__>
+       |     |     |     |           |
+       |     |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--__init__.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--<validadores>
+       |     |     |     |     |
+       |     |     |     |     +--romanos.html
+       |     |     |     |     |
+       |     |     |     |     +--<routes>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--resposta.contador.html
+       |     |     |     |     |     |
+       |     |     |     |     |     +--resposta.senhas.html
+       |     |     |     |     |     |
+       |     |     |     |     |     +--resposta.romanos.html
+       |     |     |     |     |     |
+       |     |     |     |     |     +--resposta.cpf.html
+       |     |     |     |     |
+       |     |     |     |     +--senhas.html
+       |     |     |     |     |
+       |     |     |     |     +--contador.html
+       |     |     |     |     |
+       |     |     |     |     +--<src>
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<js>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--index.js
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<css>
+       |     |     |     |     |     |     |
+       |     |     |     |     |     |     +--index.css
+       |     |     |     |     |     |
+       |     |     |     |     |     +--<vendor>
+       |     |     |     |     |           |
+       |     |     |     |     |           +--<materialize-v1.0.0>
+       |     |     |     |     |           |     |
+       |     |     |     |     |           |     +--<materialize>
+       |     |     |     |     |           |           |
+       |     |     |     |     |           |           +--<js>
+       |     |     |     |     |           |           |     |
+       |     |     |     |     |           |           |     +--materialize.js
+       |     |     |     |     |           |           |     |
+       |     |     |     |     |           |           |     +--materialize.min.js
+       |     |     |     |     |           |           |
+       |     |     |     |     |           |           +--LICENSE
+       |     |     |     |     |           |           |
+       |     |     |     |     |           |           +--README.md
+       |     |     |     |     |           |           |
+       |     |     |     |     |           |           +--<css>
+       |     |     |     |     |           |                 |
+       |     |     |     |     |           |                 +--materialize.min.css
+       |     |     |     |     |           |                 |
+       |     |     |     |     |           |                 +--materialize.css
+       |     |     |     |     |           |
+       |     |     |     |     |           +--jquery.min.js
+       |     |     |     |     |
+       |     |     |     |     +--index.html
+       |     |     |     |
+       |     |     |     +--views.py
+       |     |     |     |
+       |     |     |     +--app.py
+       |     |     |     |
+       |     |     |     +--urls.py
+       |     |     |
+       |     |     +--<webservice>
+       |     |     |     |
+       |     |     |     +--webservice.py
+       |     |     |     |
+       |     |     |     +--<source>
+       |     |     |     |     |
+       |     |     |     |     +--classifica_senha.py
+       |     |     |     |     |
+       |     |     |     |     +--gera_senha_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--criptografia_senhas.py
+       |     |     |     |     |
+       |     |     |     |     +--__init__.py
+       |     |     |     |     |
+       |     |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--validacpf_luis.py
+       |     |     |     |     |
+       |     |     |     |     +--converte_romano_Luis.py
+       |     |     |     |     |
+       |     |     |     |     +--<__pycache__>
+       |     |     |     |           |
+       |     |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--__init__.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |     |           |
+       |     |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--webservice.cpython-36.pyc
+       |     |     |
+       |     |     +--web.service2.py
+       |     |     |
+       |     |     +--app.py
+       |     |     |
+       |     |     +--<__pycache__>
+       |     |     |     |
+       |     |     |     +--app.cpython-36.pyc
+       |     |     |
+       |     |     +--<static>
+       |     |           |
+       |     |           +--jquery-1.7.2.min.js
+       |     |           |
+       |     |           +--require-1.0.6.js
+       |     |           |
+       |     |           +--main.js
+       |     |
+       |     +--app.py
+       |     |
+       |     +--<__pycache__>
+       |     |     |
+       |     |     +--aiohttp.cpython-36.pyc
+       |     |
+       |     +--<TESTE_CPF>
+       |           |
+       |           +--val_cpf.py
+       |           |
+       |           +--valida_cpf.py
+       |           |
+       |           +--valida.py
+       |           |
+       |           +--CPF_TEST.py
+       |           |
+       |           +--cppppp.py
+       |           |
+       |           +--cpf_val.py
+       |           |
+       |           +--testecpf.py
+       |           |
+       |           +--validacpf_base.py
+       |           |
+       |           +--bcp_valida_cpf.py
+       |           |
+       |           +--test_cpf.py
+       |           |
+       |           +--validacpf_luis.py
+       |           |
+       |           +--<__pycache__>
+       |           |     |
+       |           |     +--validacpf_luis.cpython-36.pyc
+       |           |
+       |           +--<validacpf_Luis>
+       |           |     |
+       |           |     +--validacpf_luis.py
+       |           |     |
+       |           |     +--test_validacpf_luis.py
+       |           |
+       |           +--cpf_python.py
+       |           |
+       |           +--cpf_passos.txt
+       |           |
+       |           +--test_validacpf_luis.py
+       |           |
+       |           +--cpf_2.py
+       |
+       +--<CursoLinux>
+       |     |
+       |     +--apostila_linux.sxw.pdf
+       |     |
+       |     +--<Aulas>
+       |     |
+       |     +--LINUX.pdf
+       |     |
+       |     +--<Provas>
+       |     |     |
+       |     |     +--Exercicios-e-Respostas-O-Shell-e-a-Linha-de-Comando.pdf
+       |     |     |
+       |     |     +--Respostas-dos-Exercicios-Trabalhando-com-Arquivos-e-Diretorios.pdf
+       |     |     |
+       |     |     +--Exercicios-e-Respostas-Trabalhando-com-Arquivos-e-Diretorios.pdf
+       |     |     |
+       |     |     +--Respostas-dos-Exercicios-Manipulando-Arquivos-de-Texto.pdf
+       |     |     |
+       |     |     +--Respostas-dos-Exercicios-Gerenciamento-de-Processos-e-Servi-os.pdf
+       |     |     |
+       |     |     +--Respostas-dos-Exercicios-O-Shell-e-a-Linha-de-Comando(1).pdf
+       |     |     |
+       |     |     +--Respostas-dos-Exercicios-Administra-o-do-Sistema.pdf
+       |     |
+       |     +--LINUX(1).pdf
+       |     |
+       |     +--livro_certificacao_Linux_4_edicao_amostra.pdf
+       |     |
+       |     +--resposta1.sh
+       |     |
+       |     +--lpi1_amostra.pdf
+       |     |
+       |     +--linux_2.pdf
+       |     |
+       |     +--resposta6.sh
+       |     |
+       |     +--LPIC-2.Linux.Professional.Institute.Certification.Study.Guide.pdf
+       |     |
+       |     +--<Exercicios>
+       |     |
+       |     +--apostila.pdf
+       |     |
+       |     +--SDC_User_Training_Exercise_Manual.pdf
+       |     |
+       |     +--amazon_web_services_tutorial.pdf
+       |     |
+       |     +--apostila-linux.pdf
+       |     |
+       |     +--Apostila_Ubuntu.pdf
+       |     |
+       |     +--alkalinux_guia_lpic102.pdf
+       |
+       +--VirtualBox-6.0.8-130520-Win.exe
+       |
+       +--Linux_Certificado_Luis.pdf
+       |
+       +--<Python_testes>
+       |     |
+       |     +--<PYSPARK>
+       |     |     |
+       |     |     +--Introdução PySpark.ipynb
+       |     |
+       |     +--<O curso completo de Data Science e Machine Learning - Python>
+       |     |     |
+       |     |     +--<19. Estatística para Machine Learning>
+       |     |     |     |
+       |     |     |     +--1. Visão Geral de Estatística.mp4
+       |     |     |     |
+       |     |     |     +--7. O que dizem as medidas de tendência ao centro.mp4
+       |     |     |     |
+       |     |     |     +--9. Variância e Desvio Padrão.mp4
+       |     |     |     |
+       |     |     |     +--3. Falando de Dados.mp4
+       |     |     |     |
+       |     |     |     +--8. Medidas de Dispersão.mp4
+       |     |     |     |
+       |     |     |     +--2. População e Amostra.mp4
+       |     |     |     |
+       |     |     |     +--4. Tipos de Dados.mp4
+       |     |     |     |
+       |     |     |     +--6. Medidas de Tendência ao Centro.mp4
+       |     |     |     |
+       |     |     |     +--5. Análise de Dados Quantitativos.mp4
+       |     |     |
+       |     |     +--<12. Python para Dados>
+       |     |     |     |
+       |     |     |     +--10. Listas - Use e Abuse!.mp4
+       |     |     |     |
+       |     |     |     +--13. Não vai alterar nada Tuplas!.mp4
+       |     |     |     |
+       |     |     |     +--1. Introdução Geral ao Python.mp4
+       |     |     |     |
+       |     |     |     +--2. Download e Instalação do Anaconda.mp4
+       |     |     |     |
+       |     |     |     +--6. Exercicios.mp4
+       |     |     |     |
+       |     |     |     +--3. Primeiros passos com Jupyter Notebook.mp4
+       |     |     |     |
+       |     |     |     +--15. Manipulando Arquivos.mp4
+       |     |     |     |
+       |     |     |     +--8. Definindo Procedimentos.mp4
+       |     |     |     |
+       |     |     |     +--5. Funções Built In.mp4
+       |     |     |     |
+       |     |     |     +--9. Funções Aninhadas.mp4
+       |     |     |     |
+       |     |     |     +--14. Dicionários.mp4
+       |     |     |     |
+       |     |     |     +--12. Dando voltas Loops!.mp4
+       |     |     |     |
+       |     |     |     +--7. Correção do Exercício.mp4
+       |     |     |     |
+       |     |     |     +--16. Entendendo as Bibliotecas.mp4
+       |     |     |     |
+       |     |     |     +--4. Expressões Condicionais.mp4
+       |     |     |     |
+       |     |     |     +--11. Dados Únicos Utilize o set!.mp4
+       |     |     |
+       |     |     +--<11. Git e GitHub - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--3. Realizando o download de códigos.mp4
+       |     |     |     |
+       |     |     |     +--2. Git para Windows.mp4
+       |     |     |     |
+       |     |     |     +--1. Introdução ao Git.mp4
+       |     |     |
+       |     |     +--<2. A profissão de Cientista de Dados - Módulo Teórico>
+       |     |     |     |
+       |     |     |     +--2. Carreiras de Data Science.mp4
+       |     |     |     |
+       |     |     |     +--1. Big Data Real Time e Cloud Computing.mp4
+       |     |     |
+       |     |     +--<9. Aumentando a performance - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--3. Muita informação Resumo de tratamento de dados!.mp4
+       |     |     |     |
+       |     |     |     +--2. Criando Tabelas Derivadas.mp4
+       |     |     |     |
+       |     |     |     +--1. Tratando campos de ID.mp4
+       |     |     |
+       |     |     +--<7. Tratamento de Dados - O que você realmente precisa saber!>
+       |     |     |     |
+       |     |     |     +--11. Correção Import.mp4
+       |     |     |     |
+       |     |     |     +--2. Tratando arquivo CSV - O formato universal.mp4
+       |     |     |     |
+       |     |     |     +--7. Null, And e Or.mp4
+       |     |     |     |
+       |     |     |     +--6. Identificando anomalias com SQL.mp4
+       |     |     |     |
+       |     |     |     +--8. Automatizando o tratamento de anomalias.mp4
+       |     |     |     |
+       |     |     |     +--3. Identificando anomalias nos dados.mp4
+       |     |     |     |
+       |     |     |     +--1. Tratando colunas essenciais com Excel e Notepad++.mp4
+       |     |     |     |
+       |     |     |     +--12. Utilizando Cast e Convert.mp4
+       |     |     |     |
+       |     |     |     +--4. Rastreamento de erros - Analisando versões de arquivos.mp4
+       |     |     |     |
+       |     |     |     +--9. Exercícios de Anomalias.mp4
+       |     |     |     |
+       |     |     |     +--10. Importando Dados Automaticamente.mp4
+       |     |     |     |
+       |     |     |     +--5. Verificando erros no SSIS.mp4
+       |     |     |
+       |     |     +--<4. Organização de Projetos de Data Science - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--1. Estrutura de Pastas.mp4
+       |     |     |     |
+       |     |     |     +--2. Ajustando Padrões de Dados.mp4
+       |     |     |
+       |     |     +--<8. Criando um ambiente Work - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--5. Exercício Criação de Procedures.mp4
+       |     |     |     |
+       |     |     |     +--6. Correção Procedures.mp4
+       |     |     |     |
+       |     |     |     +--3. Criando um procedure para a tabela WRK - Parte 03.mp4
+       |     |     |     |
+       |     |     |     +--1. Criando um procedure para a tabela WRK - Parte 01.mp4
+       |     |     |     |
+       |     |     |     +--4. Verificação de Dados.mp4
+       |     |     |     |
+       |     |     |     +--2. Criando um procedure para a tabela WRK - Parte 02.mp4
+       |     |     |
+       |     |     +--<10. Dados Versionados - Como fazer - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--6. Teoria de Versionamento - Passo a Passo - Parte 02.mp4
+       |     |     |     |
+       |     |     |     +--4. Fase 02 - RAW to WRK - Parte 03.mp4
+       |     |     |     |
+       |     |     |     +--5. Teoria de Versionamento - Passo a Passo.mp4
+       |     |     |     |
+       |     |     |     +--8. Atualização Versionada.mp4
+       |     |     |     |
+       |     |     |     +--2. Fase 02 - RAW to WRK - Parte 01.mp4
+       |     |     |     |
+       |     |     |     +--9. Executando o Pacote de Atualização Versionada.mp4
+       |     |     |     |
+       |     |     |     +--3. Fase 02 - RAW to WRK - Parte 02.mp4
+       |     |     |     |
+       |     |     |     +--1. Fase 01 - CSV to RAW.mp4
+       |     |     |     |
+       |     |     |     +--7. Atualização Simples.mp4
+       |     |     |
+       |     |     +--<1. Introdução a Data Science - Módulo Teórico>
+       |     |     |     |
+       |     |     |     +--6. Data Science - Introdução - Parte 04.mp4
+       |     |     |     |
+       |     |     |     +--3. Um minuto! Precisamos falar de Game Of Thrones!.mp4
+       |     |     |     |
+       |     |     |     +--1. Apresentação do conteúdo.mp4
+       |     |     |     |
+       |     |     |     +--2. Data Science - Introdução - Parte 01.mp4
+       |     |     |     |
+       |     |     |     +--5. Data Science - Introdução - Parte 03.mp4
+       |     |     |     |
+       |     |     |     +--4. Data Science - Introdução - Parte 02.mp4
+       |     |     |
+       |     |     +--<5. Organização de ETL - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--2. Criando o primeiro projeto.mp4
+       |     |     |     |
+       |     |     |     +--3. Criando um Destino.mp4
+       |     |     |     |
+       |     |     |     +--1. Uma visão sobre ETL.mp4
+       |     |     |     |
+       |     |     |     +--4. Qualidade de Dados.mp4
+       |     |     |
+       |     |     +--<6. Infraestrutura e Segurança - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--3. Automatizando cargas de dados.mp4
+       |     |     |     |
+       |     |     |     +--4. Arquitetura e Segurança - Parte 01.mp4
+       |     |     |     |
+       |     |     |     +--2. Relatórios de Transformações.mp4
+       |     |     |     |
+       |     |     |     +--9. Protegendo Pacotes com Criptografia.mp4
+       |     |     |     |
+       |     |     |     +--7. Arquitetura e Segurança - Parte 04.mp4
+       |     |     |     |
+       |     |     |     +--1. Realizando Deploy de Transformações.mp4
+       |     |     |     |
+       |     |     |     +--8. Arquitetura e Segurança - Parte 05.mp4
+       |     |     |     |
+       |     |     |     +--6. Arquitetura e Segurança - Parte 03.mp4
+       |     |     |     |
+       |     |     |     +--10. Pacotes de Carga Multiusuário.mp4
+       |     |     |     |
+       |     |     |     +--5. Arquitetura e Segurança - Parte 02.mp4
+       |     |     |
+       |     |     +--<14. Python - Bibliotecas Gerais>
+       |     |     |     |
+       |     |     |     +--2. Manipulanção de Arquivos com Paths.mp4
+       |     |     |     |
+       |     |     |     +--3. Interagindo com o Sistema Operacional.mp4
+       |     |     |     |
+       |     |     |     +--1. Lendo Arquivos com Pandas.mp4
+       |     |     |     |
+       |     |     |     +--5. Iteração sobre arquivos.mp4
+       |     |     |     |
+       |     |     |     +--4. Manipulando Paths.mp4
+       |     |     |
+       |     |     +--<3. Montando o ambiente - Módulo Prático>
+       |     |     |     |
+       |     |     |     +--3. Por que SQL Server.mp4
+       |     |     |     |
+       |     |     |     +--1. Ciclo de Vida BI.mp4
+       |     |     |     |
+       |     |     |     +--7. Management Studio.mp4
+       |     |     |     |
+       |     |     |     +--4. Criando a máquina virtual.mp4
+       |     |     |     |
+       |     |     |     +--6. Instalando o SQL Server 2016.mp4
+       |     |     |     |
+       |     |     |     +--8. Visual Studio.mp4
+       |     |     |     |
+       |     |     |     +--2. Download dos arquivos.mp4
+       |     |     |     |
+       |     |     |     +--10. Ferramentas Excel e Notepad++.mp4
+       |     |     |     |
+       |     |     |     +--3.1 Arquivos-Data-Science.txt.txt
+       |     |     |     |
+       |     |     |     +--9. Data Tools.mp4
+       |     |     |     |
+       |     |     |     +--2.2 Local alternativo para download do SQL Server 2017.pdf.pdf
+       |     |     |     |
+       |     |     |     +--2.1 Arquivos-Data-Science.txt.txt
+       |     |     |     |
+       |     |     |     +--5. Ajustando a VM.mp4
+       |     |     |
+       |     |     +--<13. Dataset - O caso Titanic>
+       |     |     |     |
+       |     |     |     +--4. Tratando Strings.mp4
+       |     |     |     |
+       |     |     |     +--6. Atualizando Dicionários com Enumerate.mp4
+       |     |     |     |
+       |     |     |     +--2. Primeiros Passos.mp4
+       |     |     |     |
+       |     |     |     +--7. Conclusão.mp4
+       |     |     |     |
+       |     |     |     +--5. Manipulando Listas.mp4
+       |     |     |     |
+       |     |     |     +--1. Apresentando o Dataset.mp4
+       |     |     |     |
+       |     |     |     +--3. Convertendo Valores.mp4
+       |     |     |
+       |     |     +--<20. Introdução a Big Data>
+       |     |           |
+       |     |           +--2. O que é Big Data Parte 02.mp4
+       |     |           |
+       |     |           +--4. O que é Big Data Parte 04.mp4
+       |     |           |
+       |     |           +--3. O que é Big Data Parte 03.mp4
+       |     |           |
+       |     |           +--5. O que é Big Data Parte 05.mp4
+       |     |           |
+       |     |           +--1. O que é Big Data Parte 01.mp4
+       |     |
+       |     +--<Python>
+       |           |
+       |           +--<Twitter>
+       |           |     |
+       |           |     +--Twitter.ipynb
+       |           |
+       |           +--<WebScrapping>
+       |           |     |
+       |           |     +--<WebDriver>
+       |           |           |
+       |           |           +--<phantomjs-2.1.1-windows>
+       |           |                 |
+       |           |                 +--LICENSE.BSD
+       |           |                 |
+       |           |                 +--<bin>
+       |           |                 |     |
+       |           |                 |     +--phantomjs.exe
+       |           |                 |
+       |           |                 +--<examples>
+       |           |                 |     |
+       |           |                 |     +--child_process-examples.js
+       |           |                 |     |
+       |           |                 |     +--countdown.js
+       |           |                 |     |
+       |           |                 |     +--waitfor.js
+       |           |                 |     |
+       |           |                 |     +--modernizr.js
+       |           |                 |     |
+       |           |                 |     +--injectme.js
+       |           |                 |     |
+       |           |                 |     +--printmargins.js
+       |           |                 |     |
+       |           |                 |     +--phantomwebintro.js
+       |           |                 |     |
+       |           |                 |     +--scandir.js
+       |           |                 |     |
+       |           |                 |     +--detectsniff.js
+       |           |                 |     |
+       |           |                 |     +--module.js
+       |           |                 |     |
+       |           |                 |     +--fibo.js
+       |           |                 |     |
+       |           |                 |     +--universe.js
+       |           |                 |     |
+       |           |                 |     +--serverkeepalive.js
+       |           |                 |     |
+       |           |                 |     +--postserver.js
+       |           |                 |     |
+       |           |                 |     +--netlog.js
+       |           |                 |     |
+       |           |                 |     +--server.js
+       |           |                 |     |
+       |           |                 |     +--version.js
+       |           |                 |     |
+       |           |                 |     +--postjson.js
+       |           |                 |     |
+       |           |                 |     +--walk_through_frames.js
+       |           |                 |     |
+       |           |                 |     +--run-qunit.js
+       |           |                 |     |
+       |           |                 |     +--outputEncoding.js
+       |           |                 |     |
+       |           |                 |     +--responsive-screenshot.js
+       |           |                 |     |
+       |           |                 |     +--rasterize.js
+       |           |                 |     |
+       |           |                 |     +--features.js
+       |           |                 |     |
+       |           |                 |     +--hello.js
+       |           |                 |     |
+       |           |                 |     +--colorwheel.js
+       |           |                 |     |
+       |           |                 |     +--page_events.js
+       |           |                 |     |
+       |           |                 |     +--useragent.js
+       |           |                 |     |
+       |           |                 |     +--run-jasmine.js
+       |           |                 |     |
+       |           |                 |     +--loadurlwithoutcss.js
+       |           |                 |     |
+       |           |                 |     +--arguments.js
+       |           |                 |     |
+       |           |                 |     +--render_multi_url.js
+       |           |                 |     |
+       |           |                 |     +--printenv.js
+       |           |                 |     |
+       |           |                 |     +--unrandomize.js
+       |           |                 |     |
+       |           |                 |     +--post.js
+       |           |                 |     |
+       |           |                 |     +--run-jasmine2.js
+       |           |                 |     |
+       |           |                 |     +--loadspeed.js
+       |           |                 |     |
+       |           |                 |     +--openurlwithproxy.js
+       |           |                 |     |
+       |           |                 |     +--echoToFile.js
+       |           |                 |     |
+       |           |                 |     +--pagecallback.js
+       |           |                 |     |
+       |           |                 |     +--stdin-stdout-stderr.js
+       |           |                 |     |
+       |           |                 |     +--printheaderfooter.js
+       |           |                 |     |
+       |           |                 |     +--simpleserver.js
+       |           |                 |     |
+       |           |                 |     +--netsniff.js
+       |           |                 |     |
+       |           |                 |     +--sleepsort.js
+       |           |                 |
+       |           |                 +--README.md
+       |           |                 |
+       |           |                 +--ChangeLog
+       |           |                 |
+       |           |                 +--third-party.txt
+       |           |
+       |           +--<Lambda>
+       |                 |
+       |                 +--Lambda.pdf
+       |                 |
+       |                 +--lambda.ipynb
+       |
+       +--<.idea>
+       |     |
+       |     +--misc.xml
+       |     |
+       |     +--<libraries>
+       |     |     |
+       |     |     +--R_User_Library.xml
+       |     |
+       |     +--modules.xml
+       |     |
+       |     +--workspace.xml
+       |     |
+       |     +--workspace.iml
+       |
+       +--AWS_certificado.pdf
+       |
+       +--<Edutech>
+       |
+       +--<Curso_AWS>
+       |     |
+       |     +--ZonasdeDisponibilidadecontedo-1518722401588.pdf
+       |     |
+       |     +--<VPC>
+       |     |     |
+       |     |     +--NetworkingnaAWSSubnetscontedo-1518723794138.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSSecurityGroupscontedo-1518723794139.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSNATGatewaycontedo-1518723794142.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSRouteTablecontedo-1518723794140.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSNetworkACLslide-1518723794140.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSRouteTableslide-1518723794139.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSInternetGatewaycontedo-1518723794143.pdf
+       |     |     |
+       |     |     +--SlideNetworkingVPC-1518723794135.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSSecurityGroupsslide-1518723794137.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSNATGatewayslide-1518723794141.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSVPC-1518723794137.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSNetworkACLcontedo-1518723794141.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSSubnetsslide-1518723794138.pdf
+       |     |     |
+       |     |     +--AWS-LAB.pdf
+       |     |     |
+       |     |     +--NetworkingnaAWSInternetGatewayslide-1518723794141.pdf
+       |     |
+       |     +--<Elastic_comp>
+       |     |     |
+       |     |     +--Tiposdediscoscontedo-1518725342195.pdf
+       |     |     |
+       |     |     +--ENIcontedo-1518725342209.pdf
+       |     |     |
+       |     |     +--ENIslide-1518725342208.pdf
+       |     |     |
+       |     |     +--FamiliasdeInstanciascontedo-1518725342206.pdf
+       |     |     |
+       |     |     +--Metadatacontedo-1518725342201.pdf
+       |     |     |
+       |     |     +--AMIslide-1518725342210.pdf
+       |     |     |
+       |     |     +--AMIcontedo-1518725342211.pdf
+       |     |     |
+       |     |     +--Tiposdediscosslide-1518725342191.pdf
+       |     |     |
+       |     |     +--Metadataslides-1518725342197.pdf
+       |     |     |
+       |     |     +--FamiliasdeInstanciasslides-1518725342204.pdf
+       |     |
+       |     +--EscopodeServioslide-1518722401590.pdf
+       |     |
+       |     +--ZonasdeDisponibilidadeslide-1518722401587.pdf
+       |     |
+       |     +--PontosdePresenacontedo-1518722401590.pdf
+       |     |
+       |     +--<Security>
+       |     |     |
+       |     |     +--EBScontedo-1518725864501.pdf
+       |     |     |
+       |     |     +--EBSslide-1518725864499.pdf
+       |     |     |
+       |     |     +--S3slide-1518725864498.pdf
+       |     |     |
+       |     |     +--S3contedo-1518725864477.pdf
+       |     |
+       |     +--EscopodeServiocontedo-1518722401590.pdf
+       |     |
+       |     +--<IAM>
+       |     |     |
+       |     |     +--ModelodeResponsabilidadeCompartilhadacontedo-1518723176012.pdf
+       |     |     |
+       |     |     +--IAMslide-1518723176013.pdf
+       |     |     |
+       |     |     +--ModelodeResponsabilidadeCompartilhadaslide-1518723176010.pdf
+       |     |     |
+       |     |     +--IAMcontedo-1518723176013.pdf
+       |     |
+       |     +--Regioescontedo-1518722401589.pdf
+       |     |
+       |     +--PontosdePresenaslide-1518722401589.pdf
+       |     |
+       |     +--Regioesslides-1518722401589.pdf
+       |
+       +--<Banco de dados>
+       |     |
+       |     +--Apostila-Banco-de-Dados.pdf
+       |
+       +--Python_certificado_Luis.pdf
+       |
+       +--<teste_takeshi_web>
+       |     |
+       |     +--<WEBSERVER_LUIS>
+       |     |     |
+       |     |     +--WebServer_Luis.py
+       |     |     |
+       |     |     +--<source>
+       |     |     |     |
+       |     |     |     +--classifica_senha.py
+       |     |     |     |
+       |     |     |     +--gera_senha_Luis.py
+       |     |     |     |
+       |     |     |     +--criptografia_senhas.py
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |
+       |     |     |     +--validacpf_luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--<templates>
+       |     |           |
+       |     |           +--cpf.jinja2
+       |     |           |
+       |     |           +--romanos.jinja2
+       |     |           |
+       |     |           +--indexx.html
+       |     |           |
+       |     |           +--index2.html
+       |     |           |
+       |     |           +--zeros.jinja2
+       |     |           |
+       |     |           +--senha.jinja2
+       |     |
+       |     +--<WEBSERVICE_2>
+       |     |     |
+       |     |     +--WebServer_Luis.py
+       |     |     |
+       |     |     +--<source>
+       |     |     |     |
+       |     |     |     +--classifica_senha.py
+       |     |     |     |
+       |     |     |     +--gera_senha_Luis.py
+       |     |     |     |
+       |     |     |     +--criptografia_senhas.py
+       |     |     |     |
+       |     |     |     +--conta_zeros_Luis.py
+       |     |     |     |
+       |     |     |     +--validacpf_luis.py
+       |     |     |     |
+       |     |     |     +--converte_romano_Luis.py
+       |     |     |     |
+       |     |     |     +--<__pycache__>
+       |     |     |           |
+       |     |     |           +--converte_romano_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--criptografia_senhas.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--classifica_senha.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--gera_senha_Luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--validacpf_luis.cpython-36.pyc
+       |     |     |           |
+       |     |     |           +--conta_zeros_Luis.cpython-36.pyc
+       |     |     |
+       |     |     +--<templates>
+       |     |           |
+       |     |           +--cpf.jinja2
+       |     |           |
+       |     |           +--base.html
+       |     |           |
+       |     |           +--romanos.jinja2
+       |     |           |
+       |     |           +--indexx.html
+       |     |           |
+       |     |           +--index.html
+       |     |           |
+       |     |           +--index2.html
+       |     |           |
+       |     |           +--zeros.jinja2
+       |     |           |
+       |     |           +--senha.jinja2
+       |     |
+       |     +--<ANTERIOR>
+       |     |     |
+       |     |     +--<webservice>
+       |     |     |     |
+       |     |     |     +--local.py
+       |     |     |
+       |     |     +--aiohttp.txt
+       |     |
+       |     +--<WEBSERVICE_HTML>
+       |           |
+       |           +--WebServer_Luis.py
+       |           |
+       |           +--<source>
+       |           |     |
+       |           |     +--classifica_senha.py
+       |           |     |
+       |           |     +--gera_senha_Luis.py
+       |           |     |
+       |           |     +--criptografia_senhas.py
+       |           |     |
+       |           |     +--conta_zeros_Luis.py
+       |           |     |
+       |           |     +--validacpf_luis.py
+       |           |     |
+       |           |     +--converte_romano_Luis.py
+       |           |     |
+       |           |     +--<__pycache__>
+       |           |           |
+       |           |           +--converte_romano_Luis.cpython-36.pyc
+       |           |           |
+       |           |           +--criptografia_senhas.cpython-36.pyc
+       |           |           |
+       |           |           +--classifica_senha.cpython-36.pyc
+       |           |           |
+       |           |           +--gera_senha_Luis.cpython-36.pyc
+       |           |           |
+       |           |           +--validacpf_luis.cpython-36.pyc
+       |           |           |
+       |           |           +--conta_zeros_Luis.cpython-36.pyc
+       |           |
+       |           +--<templates>
+       |                 |
+       |                 +--cpf.jinja2
+       |                 |
+       |                 +--base.html
+       |                 |
+       |                 +--romanos.jinja2
+       |                 |
+       |                 +--index.html
+       |                 |
+       |                 +--zeros.jinja2
+       |                 |
+       |                 +--senha.jinja2
+       |
+       +--<desejado>
+       |     |
+       |     +--resposta1.py
+       |     |
+       |     +--weqr.py
+       |     |
+       |     +--Sem título2.py
+       |     |
+       |     +--Sem título1.py
+       |     |
+       |     +--rrr.py
+       |
+       +--<hadoop>
+             |
+             +--avaliacao2.pdf
+             |
+             +--Kudu.pptx
+             |
+             +--HBase.pptx
+             |
+             +--Impala.pptx
+             |
+             +--spark.pptx
+             |
+             +--hadoop_conceitos.pptx
+             |
+             +--avaliacao.pdf
+             |
+             +--Sqoop.pptx
+             |
+             +--key.pem
+             |
+             +--resolucao_exec_hadoop.docx
